@@ -57,32 +57,11 @@ Intellectual honesty requires a willingness to reconsider even deeply held belie
 
 # Meetings
 
-## Meeting #1
+Each Truth Seekers Club meeting focuses on a major question and provides a framework for thoughtful discussion, competing perspectives, evidence, and further exploration.
 
-### What Is Truth? Can We Know Truth? Does Truth Matter?
+## 2026
 
-**Date:** Sunday, September 6, 2026  
-**Time:** 5:30 PM – 8:30 PM  
-**Location:** Sterling Heights, Michigan  
-**Moderator:** Matt Ruma
-
-Our first meeting explores three foundational questions:
-
-1. **What is truth?**
-2. **Can we know truth?**
-3. **Does truth really matter?**
-
-We will consider different ways philosophers have understood truth, how we distinguish knowledge from belief or opinion, and whether human beings can reasonably claim to know anything as true.
-
-The discussion will also examine competing viewpoints and the arguments and evidence supporting them.
-
-### Closing Question
-
-> **If you became convinced that one of your deeply held beliefs was false, would you want to know?**
-
-And:
-
-> **What would you be willing to change in order to follow the truth?**
+- [Meeting #1: What Is Truth? Can We Know Truth? Does Truth Matter?](meetings/meeting-01-what-is-truth.md)
 
 ---
 
