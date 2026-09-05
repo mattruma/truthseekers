@@ -48,9 +48,7 @@ Several major approaches have been proposed.
 
 A statement is true when it **corresponds to reality**.
 
-#### 💡Example
-
-Here is an example:
+For example:
 
 > "It is raining outside."
 
@@ -69,9 +67,7 @@ We look outside.
 
 Reality gets the deciding vote. Annoyingly indifferent to our preferences.
 
-#### 💡Example
-
-Here is another example:
+For example:
 
 > "John murdered Susan."
 
@@ -114,9 +110,7 @@ This emphasizes logical consistency.
 
 A problem arises, however: a collection of beliefs can be internally consistent and still fail to describe reality.
 
-#### 💡Example
-
-Here is an example:
+For example:
 
 > "John committed the murder."
 
@@ -131,9 +125,7 @@ They compare that belief with everything else they believe they know:
 
 The claim “John committed the murder” coheres with the larger system of evidence and beliefs. Under a coherence theory, that consistency is what makes, or helps establish, the claim as true.
 
-#### 💡Example
-
-Here is another example:
+For example:
 
 > A fictional story, for example, can be perfectly coherent without being historically true.
 
@@ -143,9 +135,7 @@ Here is another example:
 
 Pragmatic approaches emphasize whether a belief **works in practice** or proves useful in experience.
 
-#### 💡Example
-
-Here is an example:
+For example:
 
 > "This key opens the door."
 
@@ -155,9 +145,7 @@ How do we test the claim?
 
 If the key consistently opens the door, the belief works in practice, giving us pragmatic reason to accept it as true.
 
-#### 💡Example
-
-Here is another example:
+For example:
 
 Suppose investigators believe:
 > "John murdered Susan."
@@ -232,11 +220,19 @@ Can some truths be discovered through rational thought independently of particul
 
 Thinkers such as Plato and René Descartes placed considerable emphasis on reason.
 
+For example:
+
+> If all humans are mortal, and Socrates is human, then we can reason that **Socrates is mortal**. We reach the conclusion through logical reasoning rather than by observing Socrates die.
+
 #### 👉Experience
 
 Can observation and sensory experience provide knowledge about reality?
 
 Empiricists such as John Locke and David Hume emphasized experience, although Hume raised serious questions about how far experience can take us.
+
+For example:
+
+> You look outside and see rain falling, hear it hitting the roof, and feel the drops when you step outside. Your sensory experience gives you reason to believe **it is raining**.
 
 #### 👉Testimony
 
@@ -245,6 +241,10 @@ A remarkable amount of what we believe comes from other people.
 None of us personally observed most historical events, conducted every scientific experiment we accept, or independently verified everything we learned in school.
 
 When should testimony count as reliable evidence?
+
+For example:
+
+> You believe **Abraham Lincoln was assassinated in 1865**, even though you did not witness the event yourself. Your belief depends largely on historical records, documents, and the testimony of others.
 
 #### 👉Revelation
 
@@ -256,11 +256,33 @@ That raises further questions:
 - How should competing claims of revelation be evaluated?
 - What evidence would justify accepting one?
 
+For example:
+
+> A Christian may believe that **God created the universe** because this is revealed in Scripture. If Scripture is genuinely divine revelation, it could provide knowledge about something that cannot simply be established by direct personal observation.
+
+The important epistemological question is not merely whether someone *claims* revelation, but **how we could know that the claimed revelation actually comes from God**.
+
 #### 👉Faith
 
 An important distinction is worth considering:
 
 **Is faith itself a source of knowledge, or is faith a response to something believed on other grounds?**
+
+For example:
+
+> You board an airplane believing it will safely reach its destination. You have not personally inspected the engines, interviewed the pilots, or verified every part of the aircraft. Your confidence may rest on evidence, experience, testimony, and trust.
+
+The question is: **Does your faith or trust give you knowledge, or is your faith a response to knowledge or evidence you already have?**
+
+### 📌Approaches to Pursuing Truth
+
+- 👉 **Socratic Questioning**: Ask probing questions to clarify claims, uncover assumptions, and expose inconsistencies.
+- 👉 **Reductio ad Absurdum**: Assume a claim is true and test whether it leads to a contradiction or an untenable conclusion.
+- 👉 **Deduction**: Reason from premises to a conclusion that must follow if the premises are true and the argument is valid.
+- 👉 **Induction**: Use observations or evidence to reach a conclusion that is probable, but not logically guaranteed.
+- 👉 **Scientific Method**: Use systematic observation, hypotheses, predictions, testing, and revision to investigate empirical claims.
+
+Can any of these methods give us certainty, or do they only increase our confidence that a belief is true?
 
 ### ❓Questions for Discussion 
 
@@ -268,6 +290,7 @@ An important distinction is worth considering:
 - What is the difference between knowledge, belief, and opinion?
 - How certain must we be before saying, "I know"?
 - Is absolute certainty necessary for knowledge?
+- Can we prove truth?
 - How reliable are our senses?
 - How reliable is human reason?
 - Is personal experience sufficient to establish truth?
