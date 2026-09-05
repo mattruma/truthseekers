@@ -1,6 +1,16 @@
 # Meeting #1: What Is Truth? Can We Know Truth? Does Truth Matter?
 
-This is the **Participant** guide.
+## Welcome
+
+Welcome to the first meeting of the **Truth Seekers Club**.
+
+This page is your guide for preparing for our discussion. It includes the meeting agenda, key concepts, background reading, and questions we will explore together.
+
+You do not need to arrive with all the answers. In fact, that would rather defeat the purpose. Come prepared to **think carefully, ask questions, listen to opposing perspectives, explain your reasoning, and reconsider your assumptions**.
+
+Our goal is not to win an argument or reach a predetermined conclusion. Our goal is simpler and considerably harder:
+
+**To honestly seek the truth together.**
 
 ## Overview
 
