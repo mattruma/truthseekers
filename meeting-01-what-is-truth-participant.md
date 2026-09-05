@@ -66,7 +66,24 @@ This emphasizes logical consistency.
 
 A problem arises, however: a collection of beliefs can be internally consistent and still fail to describe reality.
 
-A fictional story, for example, can be perfectly coherent without being historically true.
+For example:
+
+> "John committed the murder."
+
+They compare that belief with everything else they believe they know:
+
+- John was at the scene.
+- His fingerprints were found on the weapon.
+- A witness saw him enter the building.
+- His phone records place him nearby.
+- He had a motive.
+- Nothing in the evidence contradicts the claim.
+
+The claim “John committed the murder” coheres with the larger system of evidence and beliefs. Under a coherence theory, that consistency is what makes, or helps establish, the claim as true.
+
+Another example:
+
+> A fictional story, for example, can be perfectly coherent without being historically true.
 
 **Is consistency enough to establish truth?**
 
