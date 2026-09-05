@@ -23,7 +23,7 @@ Our goal is not to win an argument or reach a predetermined conclusion. Our goal
 
 > **To honestly seek the truth together.**
 
-[⬆ Back to top](#top)
+[Back to top](#top)
 
 ## 🔭Overview
 
@@ -38,7 +38,7 @@ From there, we will consider two related questions:
 
 The purpose of the discussion is not to reach a predetermined conclusion or to defend a particular worldview. Instead, we will examine competing answers, the reasoning behind them, and the evidence that might help us decide which answers are most reasonable.
 
-[⬆ Back to top](#top)
+[Back to top](#top)
 
 ## 📋Agenda
 
@@ -52,8 +52,8 @@ The purpose of the discussion is not to reach a predetermined conclusion or to d
 - **7:55–8:15 PM** — *If time permits,* Discussion III: Does Truth Really Matter?
 - **8:15–8:25 PM** — Closing Question
 - **8:25–8:30 PM** — Final Remarks & Thank You
-
-[⬆ Back to top](#top)
+  
+[Back to top](#top)
 
 ## 💭Discussion I: What Is Truth?
 
@@ -61,7 +61,7 @@ Before asking whether we can know truth, we need some idea of what **truth** mea
 
 Several major approaches have been proposed.
 
-[⬆ Back to top](#top)
+[Back to top](#top)
 
 ### 📌Correspondence Theory
 
@@ -203,7 +203,7 @@ A false belief might sometimes produce useful results, while a true belief might
 - If a belief "works" and produces good results, does that make it true? This introduces **pragmatism**.
 - Which best describes truth: what corresponds to reality, what coheres with our other beliefs, or what works in practice? Why?
 
-[⬆ Back to top](#top)
+[Back to top](#top)
 
 ## 💭Discussion II: Can We Know Truth?
 
@@ -356,7 +356,7 @@ Can any of these methods give us certainty, or do they only increase our confide
 - How should we respond when intelligent and sincere people examine the same evidence but reach different conclusions?
 - Does disagreement mean that truth cannot be known?
 
-[⬆ Back to top](#top)
+[Back to top](#top)
 
 ## 💭Discussion III: Does Truth Really Matter?
 
@@ -385,7 +385,7 @@ This leads to a more personal question:
 
 **Do we really want truth when discovering it might require us to change?**
 
-[⬆ Back to top](#top)
+[Back to top](#top)
 
 ## 🔑 Key Terms
 
@@ -416,6 +416,6 @@ Before we begin, it may be helpful to define a few key terms that will come up t
 | **Bias** | A tendency, assumption, or preference that can influence how we interpret evidence, evaluate claims, or form beliefs, sometimes without our awareness. |
 | **Intellectual Humility** | A willingness to recognize the limits of one's knowledge and seriously consider the possibility that one's beliefs could be mistaken. |
 
-[⬆ Back to top](#top)
+[Back to top](#top)
 
-[← Back to Truth Seekers Club](../README.md)
+[Back to Truth Seekers Club](../README.md)
