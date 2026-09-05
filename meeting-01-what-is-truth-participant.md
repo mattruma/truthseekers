@@ -1,5 +1,15 @@
 # Meeting #1: What Is Truth? Can We Know Truth? Does Truth Matter?
 
+## 📑 Table of Contents
+
+- [Welcome](#welcome)
+- [Overview](#overview)
+- [Agenda](#agenda)
+- [Discussion I: What Is Truth?](#discussion-i-what-is-truth)
+- [Discussion II: Can We Know Truth?](#discussion-ii-can-we-know-truth)
+- [Discussion III: Does Truth Really Matter?](#discussion-iii-does-truth-really-matter)
+- [Key Terms](#key-terms)
+
 ## 👋Welcome
 
 Welcome to the first meeting of the **Truth Seekers Club**.
