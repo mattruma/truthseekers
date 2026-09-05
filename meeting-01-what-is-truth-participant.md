@@ -1,6 +1,6 @@
 # Meeting #1: What Is Truth? Can We Know Truth? Does Truth Matter?
 
-This is the **participant** guide.
+This is the **Participant** guide.
 
 ## Overview
 
