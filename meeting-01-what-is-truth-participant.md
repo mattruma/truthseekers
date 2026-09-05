@@ -48,7 +48,9 @@ Several major approaches have been proposed.
 
 A statement is true when it **corresponds to reality**.
 
-For example:
+#### Example
+
+Here is an example:
 
 > "It is raining outside."
 
@@ -67,15 +69,20 @@ We look outside.
 
 Reality gets the deciding vote. Annoyingly indifferent to our preferences.
 
-Another example:
+#### Example
+
+Here is another example:
 
 > "John murdered Susan."
 
 According to the correspondence theory of truth, what makes that statement true or false?
-Not whether the detective believes it.
-Not whether the jury believes it.
-Not whether all the evidence seems to point toward John.
+
+- Not whether the detective believes it.
+- Not whether the jury believes it.
+- Not whether all the evidence seems to point toward John.
+
 What ultimately makes the statement true is whether John actually murdered Susan.
+
 Suppose the evidence looks overwhelming:
 - John's fingerprints are on the murder weapon.
 - His DNA is at the scene.
@@ -107,7 +114,9 @@ This emphasizes logical consistency.
 
 A problem arises, however: a collection of beliefs can be internally consistent and still fail to describe reality.
 
-For example:
+#### Example
+
+Here is an example:
 
 > "John committed the murder."
 
@@ -122,7 +131,9 @@ They compare that belief with everything else they believe they know:
 
 The claim “John committed the murder” coheres with the larger system of evidence and beliefs. Under a coherence theory, that consistency is what makes, or helps establish, the claim as true.
 
-Another example:
+#### Example
+
+Here is another example:
 
 > A fictional story, for example, can be perfectly coherent without being historically true.
 
@@ -131,6 +142,38 @@ Another example:
 ### Pragmatism
 
 Pragmatic approaches emphasize whether a belief **works in practice** or proves useful in experience.
+
+#### Example
+
+Here is an example:
+
+> "This key opens the door."
+
+How do we test the claim?
+
+**Try the key.**
+
+If the key consistently opens the door, the belief works in practice, giving us pragmatic reason to accept it as true.
+
+#### Example
+
+Here is another example:
+
+Suppose investigators believe:
+> "John murdered Susan."
+
+Under a pragmatic theory of truth, we ask:
+
+> "Does believing that John murdered Susan work in practice? Does it produce successful results?"
+
+Suppose believing John is the murderer leads investigators to:
+- find the murder weapon,
+- locate additional evidence,
+- explain previously unexplained facts,
+- accurately reconstruct the crime, and
+- successfully predict where other evidence will be found.
+  
+The belief “John murdered Susan” has significant practical success. That gives the pragmatist reason to regard the belief as true, or at least as strongly confirmed by its practical consequences.
 
 This raises another difficulty.
 
