@@ -206,8 +206,44 @@ Under this account, knowing a proposition normally involves at least three thing
 2. **Truth** — The proposition actually is true.
 3. **Justification** — You have adequate reasons for believing it.
 
+For example:
+
+> Suppose you look out the window and see that it is raining.
+
+Examining the statement we can conclude these three things:
+
+1. **Belief** — You believe it is raining.
+2. **Truth** — It actually is raining.
+3. **Justification** — You can see and hear the rain outside.
+
+Therefore, you have a **justified true belief** that it is raining.
+
 The traditional account is useful, but twentieth-century philosopher Edmund Gettier famously demonstrated that a person can apparently possess justified true belief while arriving at the truth partly through epistemic luck. This became known as the **Gettier problem**.
 
+Our original JTB example was:
+
+> You look out the window, see rain falling, and conclude, "It is raining."
+
+Normally:
+1. **Belief** — You believe it is raining.
+2. **Truth** — It really is raining.
+3. **Justification** — You see rain outside.
+   
+Now let's introduce a Gettier-style twist.
+
+Suppose you're looking through a window at what appears to be rain. **Unknown to you, you're actually seeing a very realistic sprinkler system spraying water past the window.**
+
+Based on what you see, you conclude:
+> "It is raining."
+
+But, coincidentally, **it actually is raining on the other side of the building**, where you cannot see it.
+
+So:
+1. **Belief** — You believe it is raining. ✅
+2. **Truth** — It actually is raining. ✅
+3. **Justification** — What you see gives you a reasonable basis for believing it's raining. ✅
+4. **Problem** — Your evidence isn't connected to the fact that makes your belief true. You happened to reach the correct conclusion **by luck**. 🎲
+  
 ### 📌Possible Sources of Knowledge
 
 How do we acquire the beliefs that we regard as knowledge?
