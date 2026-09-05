@@ -183,13 +183,18 @@ A false belief might sometimes produce useful results, while a true belief might
 
 ### Questions for Discussion
 
-- What do we mean when we call something true?
-- Is truth discovered or created?
-- Can something be "true for me" but false for someone else?
-- Can two contradictory statements both be true?
-- Is logical consistency sufficient to establish truth?
-- Does usefulness tell us whether something is true?
-- Does truth require some relationship between our beliefs and reality?
+- What is truth?
+- What does it mean to say that something is “true”?
+- Is truth discovered, or is it created by individuals or societies?
+- Can something be true for one person but false for another person?
+- What is the difference between truth and belief?
+- If everyone believes something is true, does that make it true?
+- Can a belief be sincerely held and still be false?
+- Does truth depend on perspective? Are there situations where different perspectives can both accurately describe the same reality?
+- Does a statement have to correspond to reality to be true?
+- Could a belief be internally consistent with everything else you believe and still be false? This introduces **coherence theor**y.
+- If a belief "works" and produces good results, does that make it true? This introduces **pragmatism**.
+- Which best describes truth: what corresponds to reality, what coheres with our other beliefs, or what works in practice? Why?
 
 ## Discussion II: Can We Know Truth?
 
