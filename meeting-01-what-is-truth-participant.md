@@ -3,7 +3,9 @@
 
 ## 👋Welcome
 
-This page is your guide for preparing for our discussion. It includes the meeting agenda, key concepts, background reading, and questions we will explore together.
+This page is your guide for preparing for our discussion. 
+
+It includes the meeting agenda, key concepts, background reading, and questions we will explore together.
 
 You do not need to arrive with all the answers. In fact, that would rather defeat the purpose. Come prepared to **think carefully, ask questions, listen to opposing perspectives, explain your reasoning, and reconsider your assumptions**.
 
