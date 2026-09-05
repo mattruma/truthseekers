@@ -1,19 +1,7 @@
 <a id="top"></a>
 # Meeting #1: What Is Truth? Can We Know Truth? Does Truth Matter?
 
-## 📑 Table of Contents
-
-- [Welcome](#welcome)
-- [Overview](#overview)
-- [Agenda](#agenda)
-- [Discussion I: What Is Truth?](#discussion-i-what-is-truth)
-- [Discussion II: Can We Know Truth?](#discussion-ii-can-we-know-truth)
-- [Discussion III: Does Truth Really Matter?](#discussion-iii-does-truth-really-matter)
-- [Key Terms](#key-terms)
-
 ## 👋Welcome
-
-Welcome to the first meeting of the **Truth Seekers Club**.
 
 This page is your guide for preparing for our discussion. It includes the meeting agenda, key concepts, background reading, and questions we will explore together.
 
@@ -23,7 +11,19 @@ Our goal is not to win an argument or reach a predetermined conclusion. Our goal
 
 > **To honestly seek the truth together.**
 
+This page contains the following:
+
+- [Overview](#overview)
+- [Agenda](#agenda)
+- [Discussion I: What Is Truth?](#discussion-i-what-is-truth)
+- [Discussion II: Can We Know Truth?](#discussion-ii-can-we-know-truth)
+- [Discussion III: Does Truth Really Matter?](#discussion-iii-does-truth-really-matter)
+- [Key Terms](#key-terms)
+
 [Back to top](#top)
+
+<br/>
+<br/>
 
 ## 🔭Overview
 
@@ -40,6 +40,9 @@ The purpose of the discussion is not to reach a predetermined conclusion or to d
 
 [Back to top](#top)
 
+<br/>
+<br/>
+
 ## 📋Agenda
 
 - **5:30–6:00 PM** — Arrival, Food & Conversation
@@ -54,6 +57,9 @@ The purpose of the discussion is not to reach a predetermined conclusion or to d
 - **8:25–8:30 PM** — Final Remarks & Thank You
   
 [Back to top](#top)
+
+<br/>
+<br/>
 
 ## 💭Discussion I: What Is Truth?
 
@@ -204,6 +210,9 @@ A false belief might sometimes produce useful results, while a true belief might
 - Which best describes truth: what corresponds to reality, what coheres with our other beliefs, or what works in practice? Why?
 
 [Back to top](#top)
+
+<br/>
+<br/>
 
 ## 💭Discussion II: Can We Know Truth?
 
@@ -358,6 +367,9 @@ Can any of these methods give us certainty, or do they only increase our confide
 
 [Back to top](#top)
 
+<br/>
+<br/>
+
 ## 💭Discussion III: Does Truth Really Matter?
 
 *If time permits.*
@@ -386,6 +398,9 @@ This leads to a more personal question:
 **Do we really want truth when discovering it might require us to change?**
 
 [Back to top](#top)
+
+<br/>
+<br/>
 
 ## 🔑 Key Terms
 
