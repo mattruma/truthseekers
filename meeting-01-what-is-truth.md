@@ -235,30 +235,6 @@ And then:
 
 ---
 
-# Reading
-
-## How Do We Know?
-
-James K. Dew Jr. and Mark W. Foreman
-
-The selected reading introduces several concepts directly relevant to this meeting, including:
-
-- Epistemology
-- The traditional definition of knowledge as justified true belief
-- The Gettier problem
-- Reason as a source of knowledge
-- Experience as a source of knowledge
-- Testimony
-- Revelation
-- Faith and knowledge
-- Correspondence theories of truth
-- Coherence theories of truth
-- Pragmatic theories of truth
-
-The authors ultimately defend a correspondence understanding of truth while arguing that coherence and pragmatic usefulness can still function as useful tests of truth claims. fileciteturn0file0
-
----
-
 # Key Terms
 
 | Term | Working Definition |
