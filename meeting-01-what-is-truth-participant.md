@@ -48,7 +48,7 @@ Several major approaches have been proposed.
 
 A statement is true when it **corresponds to reality**.
 
-#### Example
+#### 💡Example
 
 Here is an example:
 
@@ -69,7 +69,7 @@ We look outside.
 
 Reality gets the deciding vote. Annoyingly indifferent to our preferences.
 
-#### Example
+#### 💡Example
 
 Here is another example:
 
@@ -114,7 +114,7 @@ This emphasizes logical consistency.
 
 A problem arises, however: a collection of beliefs can be internally consistent and still fail to describe reality.
 
-#### Example
+#### 💡Example
 
 Here is an example:
 
@@ -131,7 +131,7 @@ They compare that belief with everything else they believe they know:
 
 The claim “John committed the murder” coheres with the larger system of evidence and beliefs. Under a coherence theory, that consistency is what makes, or helps establish, the claim as true.
 
-#### Example
+#### 💡Example
 
 Here is another example:
 
@@ -143,7 +143,7 @@ Here is another example:
 
 Pragmatic approaches emphasize whether a belief **works in practice** or proves useful in experience.
 
-#### Example
+#### 💡Example
 
 Here is an example:
 
@@ -155,7 +155,7 @@ How do we test the claim?
 
 If the key consistently opens the door, the belief works in practice, giving us pragmatic reason to accept it as true.
 
-#### Example
+#### 💡Example
 
 Here is another example:
 
