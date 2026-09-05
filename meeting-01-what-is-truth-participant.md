@@ -36,7 +36,9 @@ From there, we will consider two related questions:
 - **Can we know truth?**
 - **Does truth really matter?**
 
-The purpose of the discussion is not to reach a predetermined conclusion or to defend a particular worldview. Instead, we will examine competing answers, the reasoning behind them, and the evidence that might help us decide which answers are most reasonable.
+The purpose of the discussion is not to reach a predetermined conclusion or to defend a particular worldview. 
+
+Instead, we will examine competing answers, the reasoning behind them, and the evidence that might help us decide which answers are most reasonable.
 
 [Back to top](#top)
 
