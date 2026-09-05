@@ -1,6 +1,6 @@
 # Meeting #1: What Is Truth? Can We Know Truth? Does Truth Matter?
 
-## Welcome
+## 👋Welcome
 
 Welcome to the first meeting of the **Truth Seekers Club**.
 
@@ -12,7 +12,7 @@ Our goal is not to win an argument or reach a predetermined conclusion. Our goal
 
 > **To honestly seek the truth together.**
 
-## Overview
+## 🔭Overview
 
 Our first Truth Seekers Club meeting begins with perhaps the most fundamental question behind the entire project:
 
@@ -25,7 +25,7 @@ From there, we will consider two related questions:
 
 The purpose of the discussion is not to reach a predetermined conclusion or to defend a particular worldview. Instead, we will examine competing answers, the reasoning behind them, and the evidence that might help us decide which answers are most reasonable.
 
-## Agenda
+## 📋Agenda
 
 - **5:30–6:00 PM** — Arrival, Food & Conversation
 - **6:00–6:10 PM** — Welcome & Purpose
@@ -38,13 +38,13 @@ The purpose of the discussion is not to reach a predetermined conclusion or to d
 - **8:15–8:25 PM** — Closing Question
 - **8:25–8:30 PM** — Final Remarks & Thank You
 
-## Discussion I: What Is Truth?
+## 💭Discussion I: What Is Truth?
 
 Before asking whether we can know truth, we need some idea of what **truth** means.
 
 Several major approaches have been proposed.
 
-### Correspondence Theory
+### 📌Correspondence Theory
 
 A statement is true when it **corresponds to reality**.
 
@@ -106,7 +106,7 @@ This basic understanding of truth has a long philosophical history and is associ
 
 **Does truth depend on what we believe, or on the way reality actually is?**
 
-### Coherence Theory
+### 📌Coherence Theory
 
 A belief is true, or justified as true, when it **coheres with a larger system of beliefs**.
 
@@ -139,7 +139,7 @@ Here is another example:
 
 **Is consistency enough to establish truth?**
 
-### Pragmatism
+### 📌Pragmatism
 
 Pragmatic approaches emphasize whether a belief **works in practice** or proves useful in experience.
 
@@ -181,7 +181,7 @@ A false belief might sometimes produce useful results, while a true belief might
 
 **If believing something improves someone's life, does that make the belief true?**
 
-### Questions for Discussion
+### ❓Questions for Discussion
 
 - What is truth?
 - What does it mean to say that something is “true”?
@@ -196,7 +196,7 @@ A false belief might sometimes produce useful results, while a true belief might
 - If a belief "works" and produces good results, does that make it true? This introduces **pragmatism**.
 - Which best describes truth: what corresponds to reality, what coheres with our other beliefs, or what works in practice? Why?
 
-## Discussion II: Can We Know Truth?
+## 💭Discussion II: Can We Know Truth?
 
 Suppose objective truth exists.
 
@@ -220,25 +220,25 @@ Under this account, knowing a proposition normally involves at least three thing
 
 The traditional account is useful, but twentieth-century philosopher Edmund Gettier famously demonstrated that a person can apparently possess justified true belief while arriving at the truth partly through epistemic luck. This became known as the **Gettier problem**.
 
-### Possible Sources of Knowledge
+### 📌Possible Sources of Knowledge
 
 How do we acquire the beliefs that we regard as knowledge?
 
 Some important candidates include:
 
-#### Reason
+#### 👉Reason
 
 Can some truths be discovered through rational thought independently of particular sensory experiences?
 
 Thinkers such as Plato and René Descartes placed considerable emphasis on reason.
 
-#### Experience
+#### 👉Experience
 
 Can observation and sensory experience provide knowledge about reality?
 
 Empiricists such as John Locke and David Hume emphasized experience, although Hume raised serious questions about how far experience can take us.
 
-#### Testimony
+#### 👉Testimony
 
 A remarkable amount of what we believe comes from other people.
 
@@ -246,7 +246,7 @@ None of us personally observed most historical events, conducted every scientifi
 
 When should testimony count as reliable evidence?
 
-#### Revelation
+#### 👉Revelation
 
 Religious traditions sometimes claim that knowledge can come through divine revelation.
 
@@ -256,13 +256,13 @@ That raises further questions:
 - How should competing claims of revelation be evaluated?
 - What evidence would justify accepting one?
 
-#### Faith
+#### 👉Faith
 
 An important distinction is worth considering:
 
 **Is faith itself a source of knowledge, or is faith a response to something believed on other grounds?**
 
-### Questions for Discussion 
+### ❓Questions for Discussion 
 
 - What does it mean to **know** something?
 - What is the difference between knowledge, belief, and opinion?
@@ -276,7 +276,7 @@ An important distinction is worth considering:
 - How should we respond when intelligent and sincere people examine the same evidence but reach different conclusions?
 - Does disagreement mean that truth cannot be known?
 
-## Discussion III: Does Truth Really Matter?
+## 💭Discussion III: Does Truth Really Matter?
 
 *If time permits.*
 
@@ -286,7 +286,7 @@ There is still another question:
 
 **Why should we care?**
 
-### Questions for Discussion
+### ❓Questions for Discussion
 
 - Why should we care whether our beliefs are true?
 - Can believing something false ever be beneficial? If so, does that make the false belief acceptable?
