@@ -179,8 +179,6 @@ An important distinction is worth considering:
 
 **Is faith itself a source of knowledge, or is faith a response to something believed on other grounds?**
 
-The assigned *How Do We Know?* reading argues for the latter interpretation. fileciteturn0file0
-
 ---
 
 ## Questions for Discussion
