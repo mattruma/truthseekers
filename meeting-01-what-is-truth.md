@@ -1,12 +1,5 @@
 # Meeting #1: What Is Truth? Can We Know Truth? Does Truth Matter?
 
-**Date:** Sunday, September 6, 2026  
-**Time:** 5:30 PM – 8:30 PM  
-**Location:** Dee Ruma's House, Sterling Heights, Michigan  
-**Moderator:** Matt Ruma
-
----
-
 ## Overview
 
 Our first Truth Seekers Club meeting begins with perhaps the most fundamental question behind the entire project:
