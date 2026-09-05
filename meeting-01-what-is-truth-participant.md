@@ -11,7 +11,7 @@ Our goal is not to win an argument or reach a predetermined conclusion. Our goal
 
 > **To honestly seek the truth together.**
 
-This page contains the following:
+This page contains the following sections:
 
 - [Overview](#overview)
 - [Agenda](#agenda)
