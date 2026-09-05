@@ -1,5 +1,7 @@
 # Meeting #1: What Is Truth? Can We Know Truth? Does Truth Matter?
 
+This is the **participant** guide.
+
 ## Overview
 
 Our first Truth Seekers Club meeting begins with perhaps the most fundamental question behind the entire project:
