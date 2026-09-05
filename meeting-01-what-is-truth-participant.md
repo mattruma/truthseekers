@@ -17,31 +17,16 @@ The purpose of the discussion is not to reach a predetermined conclusion or to d
 
 # Agenda
 
-### 5:30 – 6:00 PM
-**Arrival, Food & Conversation**
-
-### 6:00 – 6:15 PM
-**Welcome & Purpose**
-
-Introduction to the Truth Seekers Club, the purpose of our discussions, and the principles that will guide our conversations.
-
-### 6:15 – 7:00 PM
-**Discussion I: What Is Truth?**
-
-What do we actually mean when we say something is "true"?
-
-### 7:00 – 7:50 PM
-**Discussion II: Can We Know Truth?**
-
-Even if objective truth exists, are human beings capable of knowing it?
-
-### If Time Permits
-**Discussion III: Does Truth Really Matter?**
-
-What difference does truth make in how we live?
-
-### 8:15 – 8:30 PM
-**Closing Question**
+- **5:30–6:00 PM** — Arrival, Food & Conversation
+- **6:00–6:10 PM** — Welcome & Purpose
+- **6:10–6:20 PM** — Introductions
+- **6:20–6:30 PM** — Rules of Engagement
+- **6:30–6:35 PM** — Introduce Tonight’s Topic
+- **6:35–7:15 PM** — Discussion I: What Is Truth?
+- **7:15–7:55 PM** — Discussion II: Can We Know Truth?
+- **7:55–8:15 PM** — *If time permits,* Discussion III: Does Truth Really Matter?
+- **8:15–8:25 PM** — Closing Question
+- **8:25–8:30 PM** — Final Remarks & Thank You
 
 ---
 
