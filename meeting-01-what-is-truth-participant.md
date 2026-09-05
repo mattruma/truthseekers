@@ -50,9 +50,50 @@ A statement is true when it **corresponds to reality**.
 
 For example:
 
-> "The book is on the table."
+> "It is raining outside."
 
-The statement is true if the book really is on the table and false if it is not.
+Under correspondence theory, we don't determine whether that statement is true by asking whether:
+
+- I believe it's raining.
+- Everyone agrees that it's raining.
+- The belief is useful to me.
+- The statement fits consistently with my other beliefs.
+  
+We look outside.
+
+**If it is actually raining, the statement is true.**
+
+**If it isn't raining, the statement is false.**
+
+Reality gets the deciding vote. Annoyingly indifferent to our preferences.
+
+Another example:
+
+> "John murdered Susan."
+
+According to the correspondence theory of truth, what makes that statement true or false?
+Not whether the detective believes it.
+Not whether the jury believes it.
+Not whether all the evidence seems to point toward John.
+What ultimately makes the statement true is whether John actually murdered Susan.
+Suppose the evidence looks overwhelming:
+- John's fingerprints are on the murder weapon.
+- His DNA is at the scene.
+- A witness claims to have seen him there.
+- John had a motive.
+- His alibi appears weak.
+  
+A jury might reasonably conclude:
+
+> "John murdered Susan."
+
+**But imagine that John didn't murder Susan**. Someone else did.
+
+Under correspondence theory, the statement “John murdered Susan” is false, even though the evidence made it reasonable to believe it was true.
+
+That's an important distinction for your discussion:
+
+> Evidence may determine what we are justified in believing. Reality determines whether the belief is actually true.
 
 This basic understanding of truth has a long philosophical history and is associated in different forms with thinkers such as Plato and Aristotle.
 
