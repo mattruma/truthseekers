@@ -180,15 +180,18 @@ There is still another question:
 
 **Why should we care?**
 
-Consider several possibilities.
+### Questions for Discussion
 
-- Can false beliefs sometimes make people happier?
-- Is knowing an unpleasant truth better than believing a comforting falsehood?
-- Does a society depend upon some shared commitment to truth?
-- Can science function without assuming that some explanations are closer to reality than others?
-- Can justice function without attempting to determine what actually happened?
-- Does morality depend upon truths about human beings and human flourishing?
-- If religious claims concern reality, does it matter whether they are actually true?
+- Why should we care whether our beliefs are true?
+- Can believing something false ever be beneficial? If so, does that make the false belief acceptable?
+- Can knowing the truth ever make our lives worse? If so, would ignorance sometimes be preferable?
+- Are some truths more important than others? What makes one truth more consequential than another?
+- Does truth matter only when false beliefs have consequences?
+- Do we have a responsibility to seek the truth, or merely a right to do so?
+- Do we have a responsibility to correct our beliefs when we discover evidence that they are false?
+- Is it ever morally acceptable to believe something primarily because we want it to be true?
+- What should we do when the truth conflicts with something important to us: our relationships, identity, traditions, worldview, or deeply held beliefs?
+- Is there any truth worth suffering for? Is there any truth worth dying for?
 
 This leads to a more personal question:
 
