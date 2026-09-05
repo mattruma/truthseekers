@@ -22,6 +22,8 @@ Our goal is not to win an argument or reach a predetermined conclusion. Our goal
 
 > **To honestly seek the truth together.**
 
+[⬆ Back to top](#top)
+
 ## 🔭Overview
 
 Our first Truth Seekers Club meeting begins with perhaps the most fundamental question behind the entire project:
