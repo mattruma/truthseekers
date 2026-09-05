@@ -303,19 +303,33 @@ This leads to a more personal question:
 
 **Do we really want truth when discovering it might require us to change?**
 
-## Key Terms
+## 🔑 Key Terms
+
+Before we begin, it may be helpful to define a few key terms that will come up throughout our discussion. These are intended as working definitions to give us a common starting point, not to settle the philosophical questions in advance. Some of these terms are themselves debated, and part of our discussion may involve questioning or refining these definitions.
 
 | Term | Working Definition |
 |---|---|
 | **Truth** | A property of claims or propositions that accurately represent reality. |
-| **Epistemology** | The philosophical study of knowledge and how we know. |
+| **Objective Truth** | Truth that does not depend merely on what an individual or group believes, prefers, or feels. |
+| **Proposition** | A statement or claim that can be either true or false. |
 | **Belief** | Acceptance of a proposition as true. |
-| **Knowledge** | Traditionally understood as justified true belief, although that definition faces important objections. |
-| **Justification** | Reasons or evidence supporting a belief. |
-| **Correspondence** | The view that truth involves agreement between a proposition and reality. |
-| **Coherence** | The relationship between a belief and a logically consistent system of beliefs. |
-| **Pragmatism** | An approach emphasizing the practical consequences or usefulness of beliefs. |
+| **Knowledge** | Traditionally understood as **justified true belief**, although that definition faces important objections. |
+| **Epistemology** | The branch of philosophy concerned with knowledge: what knowledge is, how we acquire it, and what justifies our beliefs. |
+| **Justification** | Reasons or evidence that support a belief. |
+| **Justified True Belief (JTB)** | The traditional account that knowledge requires **belief**, **truth**, and **justification**. |
+| **Gettier Problem** | The challenge to JTB showing that someone can apparently have a justified true belief yet be correct partly because of luck. |
+| **Correspondence Theory** | The view that a proposition is true when it corresponds to reality. |
+| **Coherence Theory** | An approach emphasizing whether a belief fits consistently within a larger system of beliefs. |
+| **Pragmatism** | An approach emphasizing whether beliefs work in practice or prove useful through their consequences. |
+| **Reason** | The use of logical and rational thought to form conclusions and evaluate beliefs. |
+| **Experience** | Knowledge or beliefs acquired through observation and sensory experience. |
+| **Testimony** | Information or claims received from other people. |
+| **Revelation** | A claimed disclosure of truth from a divine or supernatural source. |
+| **Faith** | In the guide's discussion, the question is whether faith is itself a source of knowledge or a response to something believed on other grounds. |
 | **Skepticism** | Doubt about whether knowledge, or particular kinds of knowledge, are possible. |
-| **Relativism** | Broadly, the view that truth or justification in some domain depends upon a framework, perspective, culture, or individual rather than being wholly framework-independent. |
+| **Relativism** | Broadly, the view that truth or justification in some domain depends on a framework, perspective, culture, or individual rather than being wholly framework-independent. |
+| **Certainty** | A very high degree of confidence in a belief. The discussion asks whether absolute certainty is actually required for knowledge. |
+| **Bias** | A tendency, assumption, or preference that can influence how we interpret evidence, evaluate claims, or form beliefs, sometimes without our awareness. |
+| **Intellectual Humility** | A willingness to recognize the limits of one's knowledge and seriously consider the possibility that one's beliefs could be mistaken. |
 
 [← Back to Truth Seekers Club](../README.md)
