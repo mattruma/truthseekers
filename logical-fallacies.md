@@ -3,7 +3,9 @@
 
 This page is your guide for preparing for our discussion on **logical fallacies**.
 
-Logical fallacies are errors in reasoning that can make an argument weaker or misleading. Learning to recognize them helps us evaluate arguments more carefully, challenge faulty reasoning, and improve the arguments we make ourselves.
+Logical fallacies are errors in reasoning that can make an argument weaker or misleading. 
+
+Learning to recognize them helps us evaluate arguments more carefully, challenge faulty reasoning, and improve the arguments we make ourselves.
 
 As you review these fallacies, focus not only on identifying their names, but on understanding **why the reasoning fails** and how the argument could be improved.
 
