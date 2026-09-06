@@ -50,7 +50,11 @@ He didn't assume that he had everything figured out.
 
 He listened to different perspectives, considered what others had to say, and allowed those conversations and experiences to shape and strengthen what he believed and, ultimately, his faith.
 
-I think that willingness to listen, learn, question, and grow is an important part of genuinely seeking truth. It doesn't mean abandoning our convictions. It means being willing to examine why we hold them and remaining open to learning something from someone who sees the world differently than we do.
+I think that willingness to listen, learn, question, and grow is an important part of genuinely seeking truth. 
+
+It doesn't mean abandoning our convictions. 
+
+It means being willing to examine why we hold them and remaining open to learning something from someone who sees the world differently than we do.
 
 I hope the conversations we have here reflect something of that same spirit: a willingness to ask difficult questions, listen carefully to one another, examine our own beliefs, and follow the truth wherever it leads.
 
