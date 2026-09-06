@@ -38,8 +38,6 @@ Our goal is not to win an argument or force consensus. Our goal is simpler and c
 
 # 👋 Welcome & Purpose
 
-## Moderator Remarks
-
 First, I want to thank everyone for coming. 
 
 I really appreciate you taking the time to be here and being willing to participate in what I hope will become a series of thoughtful and meaningful conversations.
