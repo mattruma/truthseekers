@@ -1176,13 +1176,10 @@ My hope is that tonight we've thought a little more carefully about what we mean
 
 More importantly, I hope we've practiced something that I want to characterize this group:
 
-**The willingness to listen.**
-
-**The willingness to question.**
-
-**The willingness to give reasons for what we believe.**
-
-**The willingness to admit when we don't know.**
+- The willingness to listen.
+- The willingness to question.
+- The willingness to give reasons for what we believe.
+- The willingness to admit when we don't know.
 
 And the willingness to ask ourselves:
 
