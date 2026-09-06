@@ -230,39 +230,49 @@ What's interesting for our purposes tonight is that we don't have to be a Christ
 
 It's a question that religious believers, skeptics, philosophers, scientists, historians, and ordinary people all have to confront.
 
-Other religious traditions also emphasize the pursuit of truth.
+The Qur'an, for example, warns against confusing truth with falsehood or knowingly concealing what is true. In Surah 2:42, people are instructed:
 
-The Qur'an, for example, calls people to stand firmly for justice even when doing so works against their own interests, their parents, or their relatives. In Surah 4:135, believers are instructed not to allow personal inclination to distort their testimony.
+> And do not mix the truth with falsehood or conceal the truth while you know [it].
 
 That raises an important idea for a group like ours:
 
-> **If we really care about truth, are we willing to follow it even when it works against our own interests or challenges something we already believe?**
+**If we really care about truth, are we willing to follow it even when it works against our own interests or challenges something we already believe?**
+
+This passage is particularly relevant to our discussion because it assumes there is a distinction between truth and falsehood, that human beings can know that distinction, and that knowing the truth carries some responsibility with it.
 
 Philosophers have approached truth in different ways as well.
 
-Aristotle gave one of the classic formulations of what later became associated with the correspondence theory of truth:
+Aristotle gave us one of the earliest and most influential ways of thinking about truth. In *Metaphysics*, he wrote:
 
-> **“To say of what is that it is ... is true.”**
+> To say of what is that it is, and of what is not that it is not, is true.
 
-In other words, truth has something to do with describing reality as it actually is.
+In other words, truth has something to do with describing reality as it actually is. What we believe does not make something true. The question is whether what we believe corresponds to what is actually the case.
 
-William James and other pragmatists pushed us to think about the practical consequences of beliefs.
+Friedrich Nietzsche pushes the challenge even further:
 
-Coherence theorists emphasized whether our beliefs fit consistently together.
+> How much truth does a spirit endure, how much truth does it dare?
 
-And skeptics have repeatedly asked whether human beings can ever be certain that our beliefs accurately represent reality.
+That's a different question altogether. 
 
-So tonight we're going to begin with three questions:
+It suggests that seeking truth may require more than intelligence or evidence. 
 
-> **What is truth?**
->
-> **Can we know truth?**
+Sometimes it may require courage.
+
+It's relatively easy to seek truth when we expect the answer to confirm what we already believe. It becomes much harder when the truth might challenge our assumptions, our relationships, our traditions, our worldview, or even something deeply connected to our identity.
+
+Those questions lead directly into the three larger questions behind tonight's discussion:
+
+- **What is truth?**
+- **Can we know truth?**
 >
 > And, if we have time:
 >
 > **Does truth really matter?**
 
----
+[Back to top](#top)
+
+<br/>
+<br/>
 
 # 💭 Discussion I: What Is Truth?
 
