@@ -4,8 +4,8 @@
 A **logical fallacy** is an error in reasoning that weakens an argument.
 
 > **Important:** Identifying a fallacy does **not** automatically prove that a conclusion is false. It shows that a particular argument does not adequately support its conclusion.
-
-## Table of Contents
+> 
+This page contains the following sections:
 
 - [Avoiding the Question](#avoiding-the-question)
   - [Ad Hominem](#ad-hominem)
