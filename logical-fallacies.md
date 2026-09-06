@@ -1,9 +1,11 @@
 <a id="top"></a>
 # Logical Fallacies
 
-A **logical fallacy** is an error in reasoning that weakens an argument.
+This page is your guide for preparing for our discussion on **logical fallacies**.
 
-> **Important:** Identifying a fallacy does **not** automatically prove that a conclusion is false. It shows that a particular argument does not adequately support its conclusion.
+Logical fallacies are errors in reasoning that can make an argument weaker or misleading. Learning to recognize them helps us evaluate arguments more carefully, challenge faulty reasoning, and improve the arguments we make ourselves.
+
+As you review these fallacies, focus not only on identifying their names, but on understanding **why the reasoning fails** and how the argument could be improved.
 
 [Back to top](#top)
 
