@@ -40,17 +40,21 @@ Our goal is not to win an argument or force consensus. Our goal is simpler and c
 
 ## Moderator Remarks
 
-First, I want to thank everyone for coming. I really appreciate you taking the time to be here and being willing to participate in what I hope will become a series of thoughtful and meaningful conversations.
+First, I want to thank everyone for coming. 
+
+I really appreciate you taking the time to be here and being willing to participate in what I hope will become a series of thoughtful and meaningful conversations.
 
 Before we begin, I want to dedicate this first gathering to my dad, who recently passed away.
 
-My dad was a truth seeker throughout his life. He was willing to ask important questions, think seriously about what he believed, and continue searching for answers.
+My dad was a truth seeker throughout his life. He asked important questions, thought seriously about what he believed, and was always willing to learn from other people. 
 
-So, for me, beginning the Truth Seekers Club has a special significance.
+He didn't assume that he had everything figured out. 
 
-I hope that our conversations here reflect something of that same desire to seek what is true. I hope we are willing to ask difficult questions, listen carefully to one another, examine our own beliefs, and follow the evidence wherever it leads.
+He listened to different perspectives, considered what others had to say, and allowed those conversations and experiences to shape and strengthen what he believed and, ultimately, his faith.
 
-I hope, in some small way, that this discussion honors my dad and his lifelong pursuit of truth.
+I think that willingness to listen, learn, question, and grow is an important part of genuinely seeking truth. It doesn't mean abandoning our convictions. It means being willing to examine why we hold them and remaining open to learning something from someone who sees the world differently than we do.
+
+I hope the conversations we have here reflect something of that same spirit: a willingness to ask difficult questions, listen carefully to one another, examine our own beliefs, and follow the truth wherever it leads.
 
 The idea behind the **Truth Seekers Club** is actually pretty simple.
 
@@ -76,11 +80,11 @@ What we're trying to accomplish is something different:
 
 That means trying to understand different points of view as fairly as we can.
 
-It means asking good questions.
+- It means asking good questions.
 
-It means using reason, evidence, and logic.
+- It means using reason, evidence, and logic.
 
-It means being willing to challenge other people's ideas, but also being willing to have our own ideas challenged.
+- It means being willing to challenge other people's ideas, but also being willing to have our own ideas challenged.
 
 And probably most importantly, it means having enough intellectual humility to admit:
 
@@ -88,21 +92,28 @@ And probably most importantly, it means having enough intellectual humility to a
 
 None of us comes into this room without assumptions, experiences, biases, or deeply held beliefs.
 
-The goal isn't to pretend those things don't exist. The goal is to become more aware of them and then ask whether our beliefs are actually justified.
+The goal isn't to pretend those things don't exist. 
+
+The goal is to become more aware of them and then ask whether our beliefs are actually justified.
 
 There's a question I hope will become part of the culture of this group:
 
 > **“What would it take for me to change my mind?”**
 
-If the answer is *nothing*, then we're probably not seeking truth anymore. We're defending a position.
+If the answer is *nothing*, then we're probably not seeking truth anymore. 
+
+We're defending a position.
 
 So my hope is that we can create a place where people with different beliefs, backgrounds, experiences, and perspectives can sit around the same table, disagree strongly, ask difficult questions, challenge one another's ideas, and still treat one another with respect.
 
 We don't have to leave tonight agreeing.
 
 But hopefully we leave **thinking more carefully, understanding one another better, and perhaps knowing a little more clearly why we believe what we believe.**
+  
+[Back to top](#top)
 
----
+<br/>
+<br/>
 
 # 🗣️ Introductions
 
