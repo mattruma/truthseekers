@@ -205,8 +205,6 @@ My job is not to determine which views may be challenged, but to make sure ideas
 
 # 🔭 Introduce Tonight's Topic
 
-## Moderator Remarks
-
 Tonight we're beginning with perhaps the most foundational question this group can ask:
 
 > **What is truth?**
@@ -219,17 +217,14 @@ Jesus is standing before the Roman governor Pontius Pilate.
 
 Pilate is questioning him about whether he claims to be a king.
 
-Jesus responds that he came into the world:
+> <sup>33</sup> Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art thou the King of the Jews?<br/>
+> <sup>34</sup> Jesus answered him, Sayest thou this thing of thyself, or did others tell it thee of me?<br/>
+> <sup>35</sup> Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?<br/>
+> <sup>36</sup> Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.<br/>
+> <sup>37</sup> Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.<br/>
+> <sup>38</sup> Pilate saith unto him, **What is truth? **
 
-> **“to testify to the truth.”**
-
-Pilate responds with a question that has echoed through philosophy ever since:
-
-> **“What is truth?”**
-
-That's John 18:37–38.
-
-What's interesting for our purposes tonight is that we don't have to begin by agreeing about Christianity to recognize the significance of Pilate's question.
+What's interesting for our purposes tonight is that we don't have to be a Christian to recognize the significance of Pilate's question.
 
 **What is truth?**
 
