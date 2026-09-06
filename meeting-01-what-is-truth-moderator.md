@@ -119,12 +119,32 @@ But hopefully we leave **thinking more carefully, understanding one another bett
 
 # 🗣️ Introductions
 
-Go around the room and ask each participant to briefly introduce themselves.
+Since this is our first meeting, let's take a few minutes to go around the room and get to know each other a little bit.
 
-### Ask each person:
+When we get to you, just tell us:
 
-1. **What is your name?**
-2. **In one or two sentences, how would you define truth?**
+- Your name
+- A little about what you do
+- One thing about yourself: maybe a hobby, an interest, a fun fact, or whatever you'd like to share
+- And finally, I'd like you to briefly answer one question:
+
+> **When you hear the word "truth," how would you define it?**
+
+Don't worry about giving us a philosophical or perfectly polished definition. Just tell us what you think truth means right now.
+
+We're going to spend much of tonight examining that question, so it'll be interesting to see whether any of our definitions change or become more refined by the end of the discussion.
+
+I'll start...
+
+My name is **Matt Ruma**. I'm a **Cloud Solution Architect at Microsoft**, where I focus on AI.
+
+A fun fact about me is that I've coached middle school and high school basketball for more than **14 years**.
+
+And if I had to give my definition of truth going into tonight's discussion, I would say:
+
+> **Truth is a claim that aligns with reality.**
+
+That's my starting point. By the end of tonight, we'll see if you all convince me that I need to refine it.
 
 ### Moderator Note
 
@@ -145,7 +165,10 @@ Consider writing several definitions down.
 
 At the end of the evening, participants may discover that their definition has changed.
 
----
+[Back to top](#top)
+
+<br/>
+<br/>
 
 # 🤝 Rules of Engagement
 
