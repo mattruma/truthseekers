@@ -1,7 +1,7 @@
 <a id="top"></a>
 # Meeting #1: What Is Truth? Can We Know Truth? Does Truth Matter?
 
-This page is your guide for preparing for and moderating our discussion.
+This page is your guide for **moderating** our discussion.
 
 It includes the complete meeting agenda, speaking notes, key concepts, background material, discussion questions, and alternative perspectives you can use to keep the conversation moving.
 
