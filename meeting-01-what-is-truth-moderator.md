@@ -1,3 +1,4 @@
+<a id="top"></a>
 # Meeting #1: What Is Truth? Can We Know Truth? Does Truth Matter?
 
 This page is your guide for preparing for and moderating our discussion.
@@ -12,24 +13,28 @@ Our goal is not to win an argument or force consensus. Our goal is simpler and c
 
 > **To honestly seek the truth together.**
 
----
+[Back to top](#top)
 
-# 📋 Agenda
+<br/>
+<br/>
 
-| Time | Topic |
-|---|---|
-| **5:30–6:00 PM** | Arrival, Food & Conversation |
-| **6:00–6:10 PM** | Welcome & Purpose |
-| **6:10–6:20 PM** | Introductions |
-| **6:20–6:30 PM** | Rules of Engagement |
-| **6:30–6:35 PM** | Introduce Tonight’s Topic |
-| **6:35–7:15 PM** | Discussion I: What Is Truth? |
-| **7:15–7:55 PM** | Discussion II: Can We Know Truth? |
-| **7:55–8:15 PM** | If time permits, Discussion III: Does Truth Really Matter? |
-| **8:15–8:25 PM** | Closing Question |
-| **8:25–8:30 PM** | Final Remarks & Thank You |
+## 📋Agenda
 
----
+- **5:30–6:00 PM** — Arrival, Food & Conversation
+- **6:00–6:10 PM** — Welcome & Purpose
+- **6:10–6:20 PM** — Introductions
+- **6:20–6:30 PM** — Rules of Engagement
+- **6:30–6:35 PM** — Introduce Tonight’s Topic
+- **6:35–7:15 PM** — Discussion I: What Is Truth?
+- **7:15–7:55 PM** — Discussion II: Can We Know Truth?
+- **7:55–8:15 PM** — *If time permits,* Discussion III: Does Truth Really Matter?
+- **8:15–8:25 PM** — Closing Question
+- **8:25–8:30 PM** — Final Remarks & Thank You
+  
+[Back to top](#top)
+
+<br/>
+<br/>
 
 # 👋 Welcome & Purpose
 
