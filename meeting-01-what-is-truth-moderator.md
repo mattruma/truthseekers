@@ -539,7 +539,10 @@ What changed was reality at different times, or our knowledge of it, not the tru
 
 > **Are we talking about truth changing, reality changing, or our beliefs changing?**
 
----
+[Back to top](#top)
+
+<br/>
+<br/>
 
 # 💭 Discussion II: Can We Know Truth?
 
@@ -899,7 +902,10 @@ Memory, perception, testimony, basic logical principles, and other foundational 
 
 > **Do all beliefs require evidence, and if they do, where does the chain of evidence end?**
 
----
+[Back to top](#top)
+
+<br/>
+<br/>
 
 # 💭 Discussion III: Does Truth Really Matter?
 
