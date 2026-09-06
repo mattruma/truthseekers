@@ -1,8 +1,6 @@
 <a id="top"></a>
 # Meeting #1: What Is Truth? Can We Know Truth? Does Truth Matter?
 
-## 👋Welcome
-
 This page is your guide for preparing for our discussion. 
 
 It includes the meeting agenda, key concepts, background reading, and questions we will explore together.
