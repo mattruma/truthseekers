@@ -13,15 +13,6 @@ Our goal is not to win an argument or reach a predetermined conclusion. Our goal
 
 > **To honestly seek the truth together.**
 
-This page contains the following sections:
-
-- [Overview](#overview)
-- [Agenda](#agenda)
-- [Discussion I: What Is Truth?](#discussion-i-what-is-truth)
-- [Discussion II: Can We Know Truth?](#discussion-ii-can-we-know-truth)
-- [Discussion III: Does Truth Really Matter?](#discussion-iii-does-truth-really-matter)
-- [Key Terms](#key-terms)
-
 [Back to top](#top)
 
 <br/>
