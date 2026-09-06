@@ -5,6 +5,47 @@ A **logical fallacy** is an error in reasoning that weakens an argument.
 
 > **Important:** Identifying a fallacy does **not** automatically prove that a conclusion is false. It shows that a particular argument does not adequately support its conclusion.
 
+## Table of Contents
+
+- [Avoiding the Question](#avoiding-the-question)
+  - [Ad Hominem](#ad-hominem)
+  - [Straw Man](#straw-man)
+  - [Red Herring](#red-herring)
+  - [Tu Quoque ("You Too")](#tu-quoque-you-too)
+  - [Appeal to Ridicule](#appeal-to-ridicule)
+- [Making Assumptions](#making-assumptions)
+  - [Begging the Question](#begging-the-question)
+  - [Circular Reasoning](#circular-reasoning)
+  - [False Dilemma](#false-dilemma)
+  - [Slippery Slope](#slippery-slope)
+  - [Loaded Question](#loaded-question)
+  - [Post Hoc (False Cause)](#post-hoc-false-cause)
+  - [Appeal to Ignorance](#appeal-to-ignorance)
+  - [Composition](#composition)
+  - [Division](#division)
+- [Statistical Fallacies](#statistical-fallacies)
+  - [Hasty Generalization](#hasty-generalization)
+  - [Correlation Does Not Imply Causation](#correlation-does-not-imply-causation)
+  - [Cherry Picking](#cherry-picking)
+  - [Anecdotal Fallacy](#anecdotal-fallacy)
+  - [Biased Sample](#biased-sample)
+  - [Base Rate Neglect](#base-rate-neglect)
+- [Propaganda](#propaganda)
+  - [Appeal to Popularity (Bandwagon)](#appeal-to-popularity-bandwagon)
+  - [Appeal to Emotion](#appeal-to-emotion)
+  - [Appeal to Fear](#appeal-to-fear)
+  - [Appeal to Authority](#appeal-to-authority)
+  - [Appeal to Tradition](#appeal-to-tradition)
+  - [Appeal to Novelty](#appeal-to-novelty)
+  - [Genetic Fallacy](#genetic-fallacy)
+  - [Middle Ground Fallacy](#middle-ground-fallacy)
+- [Formal vs. Informal Fallacies](#formal-vs-informal-fallacies)
+  - [Formal Fallacy](#formal-fallacy)
+  - [Informal Fallacy](#informal-fallacy)
+- [A Fallacy Does Not Necessarily Make the Conclusion False](#a-fallacy-does-not-necessarily-make-the-conclusion-false)
+- [Questions for Evaluating an Argument](#questions-for-evaluating-an-argument)
+- [A Caution About Calling Something a Fallacy](#a-caution-about-calling-something-a-fallacy)
+
 [Back to top](#top)
 
 <br/>
