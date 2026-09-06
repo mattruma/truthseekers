@@ -146,7 +146,7 @@ And if I had to give my definition of truth going into tonight's discussion, I w
 
 That's my starting point. By the end of tonight, we'll see if you all convince me that I need to refine it.
 
-## Moderator Note
+## 📝Moderator Note
 
 Don't evaluate the definitions yet.
 
@@ -172,61 +172,36 @@ At the end of the evening, participants may discover that their definition has c
 
 # 🤝 Rules of Engagement
 
-## Moderator Remarks
-
 Before we get into the discussion, I want to establish a few rules.
 
 These aren't designed to prevent disagreement. Actually, I hope we disagree.
 
 They're designed to make **productive disagreement possible**.
 
-### 1. Respect the person; challenge the idea.
+- **Respect the Person; Challenge the Idea** — We can strongly disagree with an idea without attacking the person who holds it. Personal attacks will not be tolerated.
 
-We can criticize arguments, evidence, assumptions, and conclusions.
+- **Everyone Gets a Voice** — Give everyone an opportunity to participate. No one person should dominate the conversation.
 
-Personal attacks will not be tolerated.
+- **Listen to Understand** — Try to understand what someone is actually saying before responding. Ask questions rather than assuming what they mean.
 
-### 2. Everyone gets a voice.
+- **Use Reason and Logic** — Claims and arguments are open to examination. The same standards of reasoning and logic should apply to everyone's position, including our own.
 
-No one should dominate the discussion.
+- **Give Reasons for What You Believe** — Saying *"that's just what I believe"* tells us what you believe, but it doesn't tell us why we should think it is true. Be prepared to explain your reasoning or evidence.
 
-Give others room to speak.
+- **Be Willing to Say "I Don't Know"** — None of us has to have an answer to every question. Recognizing the limits of our knowledge is part of seeking truth.
 
-### 3. Listen to understand.
+- **Be Willing to Change Your Mind** — If the evidence or a better argument points somewhere we didn't expect, we should be willing to reconsider what we believe.
 
-Before criticizing someone's position, make sure you understand what they're actually saying.
+These rules apply to the me too. 
 
-Whenever possible, try to state their position in a way they would recognize as fair.
-
-### 4. Use reason and logic.
-
-Claims and arguments are open to examination.
-
-The rules of logic apply to everyone, regardless of which position we hold.
-
-### 5. Give reasons for what you believe.
-
-Saying:
-
-> “That's just what I believe.”
-
-describes a belief.
-
-It does not establish whether the belief is true.
-
-### 6. Be willing to say, “I don't know.”
-
-There is nothing wrong with not knowing something.
-
-Pretending to know something we don't know gets us farther from our goal.
-
-### 7. Be willing to change your mind.
-
-If better evidence or a stronger argument points in another direction, we should be willing to reconsider what we believe.
+My job is not to determine which views may be challenged, but to make sure ideas are examined fairly and respectfully.
 
 > **The goal is not victory. The goal is truth.**
 
----
+[Back to top](#top)
+
+<br/>
+<br/>
 
 # 🔭 Introduce Tonight's Topic
 
