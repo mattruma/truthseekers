@@ -1,13 +1,16 @@
-# Truth Seekers Club
+# Meeting #1: What Is Truth? Can We Know Truth? Does Truth Matter?
 
-## Meeting #1: What Is Truth? Can We Know Truth? Does Truth Matter?
+This page is your guide for preparing for and moderating our discussion.
 
-**Date:** Sunday, September 6, 2026  
-**Time:** 5:30–8:30 PM  
-**Moderator:** Matt Ruma  
-**Location:** Dee Ruma’s House  
-48394 Trillium  
-Sterling Heights, MI 48314
+It includes the complete meeting agenda, speaking notes, key concepts, background material, discussion questions, and alternative perspectives you can use to keep the conversation moving.
+
+You do not need to arrive with all the answers. In fact, that would rather defeat the purpose. Come prepared to **think carefully, ask questions, listen to opposing perspectives, explain your reasoning, test assumptions, and reconsider your own conclusions**.
+
+Your role as moderator is not to steer the group toward a predetermined answer. It is to make sure the strongest reasonable perspectives are heard, important assumptions are examined, and disagreement remains thoughtful and productive.
+
+Our goal is not to win an argument or force consensus. Our goal is simpler and considerably harder:
+
+> **To honestly seek the truth together.**
 
 ---
 
