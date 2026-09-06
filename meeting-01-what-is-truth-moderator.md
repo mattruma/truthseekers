@@ -146,7 +146,7 @@ And if I had to give my definition of truth going into tonight's discussion, I w
 
 That's my starting point. By the end of tonight, we'll see if you all convince me that I need to refine it.
 
-### Moderator Note
+## Moderator Note
 
 Don't evaluate the definitions yet.
 
