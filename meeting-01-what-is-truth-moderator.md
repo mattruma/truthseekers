@@ -18,7 +18,7 @@ Our goal is not to win an argument or force consensus. Our goal is simpler and c
 <br/>
 <br/>
 
-## 📋Agenda
+## 📋 Agenda
 
 - **5:30–6:00 PM** — Arrival, Food & Conversation
 - **6:00–6:10 PM** — Welcome & Purpose
@@ -36,7 +36,7 @@ Our goal is not to win an argument or force consensus. Our goal is simpler and c
 <br/>
 <br/>
 
-# 👋 Welcome & Purpose
+## 👋 Welcome & Purpose
 
 First, I want to thank everyone for coming. 
 
@@ -117,7 +117,7 @@ But hopefully we leave **thinking more carefully, understanding one another bett
 <br/>
 <br/>
 
-# 🗣️ Introductions
+## 🗣️ Introductions
 
 Since this is our first meeting, let's take a few minutes to go around the room and get to know each other a little bit.
 
@@ -146,7 +146,7 @@ And if I had to give my definition of truth going into tonight's discussion, I w
 
 That's my starting point. By the end of tonight, we'll see if you all convince me that I need to refine it.
 
-## 📝Moderator Note
+### 📝 Moderator Note
 
 Don't evaluate the definitions yet.
 
@@ -170,7 +170,7 @@ At the end of the evening, participants may discover that their definition has c
 <br/>
 <br/>
 
-# 🤝 Rules of Engagement
+## 🤝 Rules of Engagement
 
 Before we get into the discussion, I want to establish a few rules.
 
@@ -192,7 +192,7 @@ They're designed to make **productive disagreement possible**.
 
 - **Be Willing to Change Your Mind** — If the evidence or a better argument points somewhere we didn't expect, we should be willing to reconsider what we believe.
 
-These rules apply to the me too. 
+These rules apply to me too.
 
 My job is not to determine which views may be challenged, but to make sure ideas are examined fairly and respectfully.
 
@@ -203,7 +203,7 @@ My job is not to determine which views may be challenged, but to make sure ideas
 <br/>
 <br/>
 
-# 🔭 Introduce Tonight's Topic
+## 🔭 Introduce Tonight's Topic
 
 Tonight we're beginning with perhaps the most foundational question this group can ask:
 
@@ -222,7 +222,7 @@ Pilate is questioning him about whether he claims to be a king.
 > <sup>35</sup> Pilate answered, Am I a Jew? Thine own nation and the chief priests have delivered thee unto me: what hast thou done?<br/>
 > <sup>36</sup> Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.<br/>
 > <sup>37</sup> Pilate therefore said unto him, Art thou a king then? Jesus answered, Thou sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.<br/>
-> <sup>38</sup> Pilate saith unto him, **What is truth? **
+> <sup>38</sup> Pilate saith unto him, **What is truth?**
 
 What's interesting for our purposes tonight is that we don't have to be a Christian to recognize the significance of Pilate's question.
 
@@ -274,35 +274,35 @@ And, if we have time:
 <br/>
 <br/>
 
-# 💭 Discussion I: What Is Truth?
+## 💭 Discussion I: What Is Truth?
 
-## Opening Question
+### Opening Question
 
 > **What does it mean to say that something is true?**
 
 Give the group time to answer before introducing theories.
 
----
+<br/>
 
-## 🔑 Truth vs. Belief
+### 🔑 Truth vs. Belief
 
-### 💬 Question
+#### 💬 Question
 
 > **What is the difference between saying “I believe this” and saying “This is true”?**
 
-### 👍 Affirmation Perspective: Truth is independent of belief
+#### 👍 Affirmation Perspective: Truth is independent of belief
 
 Something can be true regardless of whether anyone believes it.
 
 People once held beliefs that later turned out to be mistaken. Therefore, belief and truth cannot simply mean the same thing.
 
-### 👎 Alternative Perspective: Our access to truth is always through belief
+#### 👎 Alternative Perspective: Our access to truth is always through belief
 
 We never encounter “truth” from a completely neutral position. Everything we claim about reality is interpreted through perception, language, culture, concepts, and prior beliefs.
 
 Therefore, talking about truth completely independently of human perspectives may be more difficult than it first appears.
 
-### 🎯 Moderator Push
+#### 🎯 Moderator Push
 
 Ask:
 
@@ -312,15 +312,15 @@ Then:
 
 > **If everyone believed there were six chairs in this room, but there were actually five, how many chairs would there be?**
 
----
+<br/>
 
-## 💬 Is Truth Objective?
+### 💬 Is Truth Objective?
 
-### Question
+#### Question
 
 > **Are there truths that are true regardless of what anyone believes about them?**
 
-### 👍 Affirmation Perspective
+#### 👍 Affirmation Perspective
 
 At least some truths appear objective.
 
@@ -333,23 +333,23 @@ Examples:
 
 These claims do not become true or false simply because people's opinions change.
 
-### 👎 Denial / Alternative Perspective
+#### 👎 Denial / Alternative Perspective
 
 Some things commonly called “truth” may depend upon conceptual frameworks, cultural assumptions, language, or perspective.
 
 Statements about beauty, social conventions, morality, meaning, and even some classifications may not function like straightforward physical facts.
 
-### 🎯 Moderator Push
+#### 🎯 Moderator Push
 
 Ask:
 
 > **Are we confusing objective truth with the claim that every question has one simple objective answer?**
 
----
+<br/>
 
-## 💬 Can Something Be “True for Me” but False for You?
+### 💬 Can Something Be “True for Me” but False for You?
 
-### 👍 Affirmation Perspective
+#### 👍 Affirmation Perspective
 
 Some statements genuinely depend upon the subject.
 
@@ -359,7 +359,7 @@ may be true as a description of one person's preference and false as a descripti
 
 Perspective can also matter. Two witnesses may accurately describe different aspects of the same event.
 
-### 👎 Denial Perspective
+#### 👎 Denial Perspective
 
 The phrase “true for me” can confuse **preference or perspective** with truth.
 
@@ -371,21 +371,21 @@ then it is objectively true or false *that I have that preference*.
 
 But if two people make contradictory claims about the same fact in the same respect, both cannot be correct merely because each sincerely believes their version.
 
-### 🎯 Moderator Push
+#### 🎯 Moderator Push
 
 Ask:
 
 > **What's the difference between subjective experience and subjective truth?**
 
----
+<br/>
 
-# 📌 Three Major Approaches to Truth
+### 📌 Three Major Approaches to Truth
 
-## 👉 Correspondence Theory
+#### 👉 Correspondence Theory
 
 > **A proposition is true when it corresponds to reality.**
 
-### 💡 Example
+##### 💡 Example
 
 > “John murdered Susan.”
 
@@ -395,25 +395,25 @@ It is false if he did not.
 
 What the detective believes, what the jury believes, and even what the evidence appears to show do not themselves determine whether John actually committed the murder.
 
-### 💬 Question
+##### 💬 Question
 
 > **Does reality ultimately determine whether our beliefs are true?**
 
-#### 👍 Affirmation
+###### 👍 Affirmation
 
 Truth must be anchored in something outside our beliefs. Otherwise we cannot explain how an entire person, culture, or society could be mistaken.
 
-#### 👎 Objection
+###### 👎 Objection
 
 We only know “reality” through perception, concepts, language, and interpretation. How can we compare our beliefs to reality independently of the very cognitive tools whose accuracy we're trying to evaluate?
 
----
+<br/>
 
-## 👉 Coherence Theory
+#### 👉 Coherence Theory
 
 > **A belief is true, or supported as true, when it fits consistently within a larger system of beliefs.**
 
-### 💡 Example
+##### 💡 Example
 
 Investigators believe John committed the murder because:
 
@@ -425,33 +425,33 @@ Investigators believe John committed the murder because:
 
 The conclusion coheres with the larger body of evidence.
 
-### 💬 Question
+##### 💬 Question
 
 > **If every part of a story fits together consistently, does that make the story true?**
 
-#### 👍 Affirmation
+###### 👍 Affirmation
 
 Contradictions are strong evidence that at least part of our belief system is wrong. A true account of reality should ultimately cohere with other truths.
 
-#### 👎 Denial
+###### 👎 Denial
 
 A fictional story can be completely coherent and still be fictional.
 
 A consistent belief system can therefore still fail to describe reality.
 
-### 🎯 Moderator Push
+##### 🎯 Moderator Push
 
 > **Can two different explanations both fit the available evidence? If so, how do we decide between them?**
 
----
+<br/>
 
-## 👉 Pragmatism
+#### 👉 Pragmatism
 
 In simplified form:
 
 > **Does the belief work in practice?**
 
-### 💡 Example
+##### 💡 Example
 
 > “This key opens the door.”
 
@@ -459,17 +459,17 @@ Try the key.
 
 If it repeatedly opens the door, its practical success gives us reason to believe the claim.
 
-### 💬 Question
+##### 💬 Question
 
 > **If a belief works, does that make it true?**
 
-#### 👍 Affirmation
+###### 👍 Affirmation
 
 Successful beliefs allow us to navigate reality, solve problems, make predictions, and achieve results.
 
 Persistent practical success is difficult to explain if a belief has no connection with reality.
 
-#### 👎 Denial
+###### 👎 Denial
 
 False beliefs can sometimes produce beneficial consequences.
 
@@ -479,41 +479,41 @@ Therefore:
 
 > **Useful does not necessarily mean true.**
 
-### 🎯 Moderator Push
+##### 🎯 Moderator Push
 
 > **Could believing something false ever make your life better? If so, would its usefulness make it true?**
 
----
+<br/>
 
-# 💬 Additional Questions: What Is Truth?
+### 💬 Additional Questions: What Is Truth?
 
-## Question
+#### Question
 
 > **If everyone believes something is true, does that make it true?**
 
-### 👍 Yes / Qualified Perspective
+##### 👍 Yes / Qualified Perspective
 
 Consensus can be significant evidence.
 
 When large numbers of independent, informed people using reliable methods reach the same conclusion, their agreement may provide rational grounds for confidence.
 
-### 👎 No Perspective
+##### 👎 No Perspective
 
 Consensus does not *make* a proposition true.
 
 Entire societies have held beliefs later shown to be mistaken.
 
-### 🎯 Moderator Push
+##### 🎯 Moderator Push
 
 > **When should consensus count as evidence, and when should we distrust it?**
 
----
+<br/>
 
-## Question
+#### Question
 
 > **Does truth change?**
 
-### 👍 Yes / Qualified Perspective
+##### 👍 Yes / Qualified Perspective
 
 Some propositions change truth value because reality changes.
 
@@ -523,7 +523,7 @@ can be true at noon and false at 2:00 PM.
 
 Human knowledge also changes as new evidence becomes available.
 
-### 👎 No / Qualified Perspective
+##### 👎 No / Qualified Perspective
 
 This does not necessarily mean **truth itself changes**.
 
@@ -535,7 +535,7 @@ if true, remains true permanently.
 
 What changed was reality at different times, or our knowledge of it, not the truth about what happened at noon.
 
-### 🎯 Moderator Push
+##### 🎯 Moderator Push
 
 > **Are we talking about truth changing, reality changing, or our beliefs changing?**
 
@@ -544,9 +544,9 @@ What changed was reality at different times, or our knowledge of it, not the tru
 <br/>
 <br/>
 
-# 💭 Discussion II: Can We Know Truth?
+## 💭 Discussion II: Can We Know Truth?
 
-## Transition
+### Transition
 
 We have been asking:
 
@@ -556,9 +556,9 @@ Now comes the harder epistemological question:
 
 > **How would we know when we have it?**
 
----
+<br/>
 
-# 🔑 What Is Knowledge?
+### 🔑 What Is Knowledge?
 
 A traditional philosophical definition is:
 
@@ -570,9 +570,9 @@ For someone to know proposition **P**:
 2. **P must actually be true**.
 3. They must have adequate **justification for believing P**.
 
----
+<br/>
 
-## 💡 JTB Example
+#### 💡 JTB Example
 
 You look outside and conclude:
 
@@ -584,9 +584,9 @@ You look outside and conclude:
 
 You therefore appear to have a **justified true belief**.
 
----
+<br/>
 
-# 🧩 The Gettier Problem
+### 🧩 The Gettier Problem
 
 Edmund Gettier famously challenged whether JTB is sufficient for knowledge.
 
@@ -610,85 +610,85 @@ But your evidence isn't what makes your belief true.
 
 You got the correct answer partly through luck.
 
-### 💬 Question
+#### 💬 Question
 
 > **Did you know it was raining, or were you simply lucky enough to have a justified belief that happened to be true?**
 
-### 👍 JTB Is Still Useful
+#### 👍 JTB Is Still Useful
 
 Belief, truth, and justification still appear to be important ingredients of knowledge.
 
 Gettier cases may simply show that another condition is needed, such as reliable belief formation or the absence of defeating evidence.
 
-### 👎 JTB Is Insufficient
+#### 👎 JTB Is Insufficient
 
 If someone can satisfy all three conditions and still intuitively lack knowledge, then JTB cannot be a complete definition of knowledge.
 
-### 🎯 Moderator Push
+#### 🎯 Moderator Push
 
 > **What would we need to add to JTB to eliminate accidental truth?**
 
----
+<br/>
 
-# 📌 Possible Sources of Knowledge
+### 📌 Possible Sources of Knowledge
 
-## 👉 Reason
+#### 👉 Reason
 
 Can some truths be discovered through rational thought independently of particular sensory experiences?
 
-### 💡 Example
+##### 💡 Example
 
 > All humans are mortal.  
 > Socrates is human.  
 > Therefore, Socrates is mortal.
 
-### 👍 Strength
+##### 👍 Strength
 
 Reason can reveal logical relationships and necessary conclusions.
 
-### 👎 Limitation
+##### 👎 Limitation
 
 Valid reasoning guarantees a conclusion only if the premises are true.
 
 Reason alone may not tell us whether premises about the external world are correct.
 
----
+<br/>
 
-## 👉 Experience
+#### 👉 Experience
 
 Can observation and sensory experience provide knowledge about reality?
 
-### 💡 Example
+##### 💡 Example
 
 You see rain, hear it striking the roof, and feel drops outside.
 
-### 👍 Strength
+##### 👍 Strength
 
 Observation gives us direct practical access to the physical world and forms the foundation of empirical science.
 
-### 👎 Limitation
+##### 👎 Limitation
 
 Our senses can mislead us.
 
 Illusions, hallucinations, perspective, memory errors, and perceptual limitations raise questions about how reliable experience is.
 
----
+<br/>
 
-## 👉 Testimony
+#### 👉 Testimony
 
 Much of what we believe comes from other people.
 
-### 💡 Example
+##### 💡 Example
 
 You believe Abraham Lincoln was assassinated in 1865 even though you did not personally witness the event.
 
-### 👍 Strength
+##### 👍 Strength
 
 Without testimony, human knowledge would be radically limited.
 
 History, education, science, journalism, and everyday life depend heavily upon reliable testimony.
 
-### 👎 Limitation
+##### 👎 Limitation
 
 People can:
 
@@ -699,7 +699,7 @@ People can:
 - be biased,
 - or sincerely repeat false information.
 
-### 🎯 Moderator Push
+##### 🎯 Moderator Push
 
 > **What makes testimony trustworthy?**
 
@@ -713,21 +713,21 @@ Consider:
 - track record,
 - contrary evidence.
 
----
+<br/>
 
-## 👉 Revelation
+#### 👉 Revelation
 
 Religious traditions sometimes claim that knowledge can come through divine revelation.
 
-### 💡 Example
+##### 💡 Example
 
 Suppose someone claims to have received information from a divine source that they could not otherwise have known.
 
-### 👍 Affirmation Perspective
+##### 👍 Affirmation Perspective
 
 If a divine being exists and communicates reliably with humans, revelation could in principle provide genuine knowledge, including knowledge inaccessible through ordinary observation.
 
-### 👎 Denial / Skeptical Perspective
+##### 👎 Denial / Skeptical Perspective
 
 The fact that someone claims revelation does not establish that revelation occurred.
 
@@ -735,31 +735,31 @@ Different religions and individuals make competing revelatory claims.
 
 Therefore, we need some way to distinguish genuine revelation from mistake, imagination, tradition, fraud, or psychological experience.
 
-### 🎯 Moderator Push
+##### 🎯 Moderator Push
 
 > **How could a claimed revelation be tested?**
 
 > **Should revelation require independent evidence, or could revelation itself provide its own justification?**
 
----
+<br/>
 
-## 👉 Faith
+#### 👉 Faith
 
-### 💬 Question
+##### 💬 Question
 
 > **Is faith a source of knowledge, or is faith a response to something we already have reasons to believe?**
 
-### 👍 Faith as Epistemically Significant
+##### 👍 Faith as Epistemically Significant
 
 Some philosophers and religious thinkers argue that certain beliefs may be rationally held without inferential proof and that trust can sometimes be an appropriate response to experience, testimony, or properly functioning cognitive faculties.
 
-### 👎 Faith Is Not a Source of Information
+##### 👎 Faith Is Not a Source of Information
 
 Faith itself does not necessarily provide new information.
 
 If people can claim incompatible propositions “by faith,” faith alone provides no obvious method for determining which claim is correct.
 
-### 💡 Example
+##### 💡 Example
 
 You board an airplane trusting that it will safely reach its destination.
 
@@ -771,13 +771,13 @@ Your trust rests partly upon:
 - engineering,
 - and evidence.
 
-### 🎯 Moderator Push
+##### 🎯 Moderator Push
 
 > **Does your trust create knowledge, or is your trust a response to evidence you already possess?**
 
----
+<br/>
 
-# 🔎 Approaches to Pursuing Truth
+### 🔎 Approaches to Pursuing Truth
 
 - **👉 Socratic Questioning:** Ask probing questions to clarify claims, uncover assumptions, and expose inconsistencies.
 - **👉 Reductio ad Absurdum:** Assume a claim is true and test whether it leads to a contradiction or untenable conclusion.
@@ -785,15 +785,15 @@ Your trust rests partly upon:
 - **👉 Induction:** Use observations or evidence to reach a conclusion that is probable but not logically guaranteed.
 - **👉 Scientific Method:** Use systematic observation, hypotheses, predictions, testing, and revision to investigate empirical claims.
 
-### 💬 Questions
+#### 💬 Questions
 
 > **Which of these methods gives us the strongest reason to believe something is true, and why?**
 
 > **Can any of these methods give us certainty, or do they only increase our confidence that a belief is true?**
 
----
+<br/>
 
-# 🔎 How Can We Test a Truth Claim?
+### 🔎 How Can We Test a Truth Claim?
 
 Consider asking:
 
@@ -808,15 +808,15 @@ Consider asking:
 
 > **Important distinction:** These tests don't make a proposition true. They give us reasons for believing that it is true.
 
----
+<br/>
 
-# 💬 Additional Questions: Can We Know Truth?
+### 💬 Additional Questions: Can We Know Truth?
 
-## Question
+#### Question
 
 > **Can we know something without being absolutely certain?**
 
-### 👍 Yes
+##### 👍 Yes
 
 Everyday and scientific knowledge is usually fallible.
 
@@ -824,7 +824,7 @@ We can know something while acknowledging a logical possibility that we could be
 
 Requiring absolute certainty would eliminate much of what humans normally call knowledge.
 
-### 👎 No / Strong Skeptical Position
+##### 👎 No / Strong Skeptical Position
 
 If there remains a genuine possibility of error, perhaps we should say:
 
@@ -834,71 +834,71 @@ rather than:
 
 > “I know this.”
 
-### 🎯 Moderator Push
+##### 🎯 Moderator Push
 
 > **What level of confidence is required before belief becomes knowledge?**
 
----
+<br/>
 
-## Question
+#### Question
 
 > **Can we trust our senses?**
 
-### 👍 Yes
+##### 👍 Yes
 
 Our senses are generally reliable enough to navigate reality successfully.
 
 Independent observers and instruments can correct many perceptual errors.
 
-### 👎 Skeptical Perspective
+##### 👎 Skeptical Perspective
 
 Any attempt to verify our senses ultimately seems to depend upon perception again.
 
 Dreams, illusions, hallucinations, and perceptual differences demonstrate that experience is fallible.
 
-### 🎯 Moderator Push
+##### 🎯 Moderator Push
 
 > **Do we need perfect reliability for a source of knowledge to be useful?**
 
----
+<br/>
 
-## Question
+#### Question
 
 > **Can bias prevent us from knowing truth?**
 
-### 👍 Yes
+##### 👍 Yes
 
 Confirmation bias, motivated reasoning, social pressure, ideology, identity, incentives, and emotional commitments can affect how we evaluate evidence.
 
-### 👎 Qualified Objection
+##### 👎 Qualified Objection
 
 Being biased does not mean someone's conclusion is false.
 
 A person can have bad motives and still be correct, just as a neutral person can be mistaken.
 
-### 🎯 Moderator Push
+##### 🎯 Moderator Push
 
 > **How do we distinguish criticism of someone's reasoning from criticism of their motives?**
 
----
+<br/>
 
-## Question
+#### Question
 
 > **Should we proportion our confidence to the strength of the evidence?**
 
-### 👍 Yes
+##### 👍 Yes
 
 Strong claims should require appropriately strong justification.
 
 When evidence is weak or conflicting, intellectual humility should reduce our confidence.
 
-### 👎 Qualification
+##### 👎 Qualification
 
 Not every rational belief is based on explicit evidence.
 
 Memory, perception, testimony, basic logical principles, and other foundational beliefs may be rational without consciously assembling an argument every time we use them.
 
-### 🎯 Moderator Push
+##### 🎯 Moderator Push
 
 > **Do all beliefs require evidence, and if they do, where does the chain of evidence end?**
 
@@ -907,9 +907,9 @@ Memory, perception, testimony, basic logical principles, and other foundational 
 <br/>
 <br/>
 
-# 💭 Discussion III: Does Truth Really Matter?
+## 💭 Discussion III: Does Truth Really Matter?
 
-## Transition
+### Transition
 
 Suppose we've established two things, at least provisionally:
 
@@ -922,11 +922,11 @@ That leaves another question:
 
 Does it actually matter whether what we believe is true?
 
----
+<br/>
 
-## 💬 Why Should We Care Whether Our Beliefs Are True?
+### 💬 Why Should We Care Whether Our Beliefs Are True?
 
-### 👍 Truth Matters
+#### 👍 Truth Matters
 
 Our beliefs guide our actions.
 
@@ -934,21 +934,21 @@ False beliefs about medicine, engineering, finances, other people, history, or p
 
 If our actions are based upon reality, accurate beliefs generally improve our ability to make sound decisions.
 
-### 👎 Qualification
+#### 👎 Qualification
 
 Not every truth has equal practical importance.
 
 Knowing the exact number of grains of sand on a beach may be true but irrelevant to almost every decision we make.
 
-### 🎯 Moderator Push
+#### 🎯 Moderator Push
 
 > **What makes one truth more important than another?**
 
----
+<br/>
 
-## 💬 Can Believing Something False Ever Be Beneficial?
+### 💬 Can Believing Something False Ever Be Beneficial?
 
-### 👍 Yes
+#### 👍 Yes
 
 False beliefs can sometimes:
 
@@ -958,33 +958,33 @@ False beliefs can sometimes:
 - motivate action,
 - or produce beneficial behavior.
 
-### 👎 But Benefit Doesn't Make It True
+#### 👎 But Benefit Doesn't Make It True
 
 The beneficial consequences of a belief do not establish its truth.
 
 A comforting falsehood remains false.
 
-### 🎯 Moderator Push
+#### 🎯 Moderator Push
 
 > **If a false belief made someone happier and harmed no one, would there be any reason to challenge it?**
 
----
+<br/>
 
-## 💬 Is It Better to Know an Uncomfortable Truth or Believe a Comforting Lie?
+### 💬 Is It Better to Know an Uncomfortable Truth or Believe a Comforting Lie?
 
-### 👍 Uncomfortable Truth
+#### 👍 Uncomfortable Truth
 
 Accurate beliefs preserve autonomy and allow people to make decisions based upon reality.
 
 Comfort purchased through deception can be fragile and manipulative.
 
-### 👎 Comforting Lie / Qualified Position
+#### 👎 Comforting Lie / Qualified Position
 
 There may be circumstances where knowing a particular truth produces suffering without meaningful benefit.
 
 Privacy, medical disclosure, interpersonal relationships, and traumatic circumstances can make truth-telling ethically complicated.
 
-### 🎯 Moderator Push
+#### 🎯 Moderator Push
 
 > **Does our right to truth imply that every truth must always be disclosed?**
 
@@ -996,17 +996,17 @@ from:
 
 **Every truth must always be spoken to everyone.**
 
----
+<br/>
 
-## 💬 Do We Have a Responsibility to Seek Truth?
+### 💬 Do We Have a Responsibility to Seek Truth?
 
-### 👍 Yes
+#### 👍 Yes
 
 If our beliefs affect other people, remaining deliberately ignorant can cause harm.
 
 Citizens, voters, jurors, professionals, parents, and leaders may have obligations to investigate important claims before acting upon them.
 
-### 👎 No / Limited Obligation
+#### 👎 No / Limited Obligation
 
 Humans have limited time, resources, expertise, and attention.
 
@@ -1014,25 +1014,25 @@ We cannot investigate every claim.
 
 There may therefore be a responsibility to seek truth about **important matters**, but not an unlimited obligation to investigate everything.
 
-### 🎯 Moderator Push
+#### 🎯 Moderator Push
 
 > **When does ignorance become irresponsible?**
 
----
+<br/>
 
-## 💬 Do We Have an Obligation to Change Our Beliefs?
+### 💬 Do We Have an Obligation to Change Our Beliefs?
 
-### Question
+#### Question
 
 > **If strong evidence shows that one of our beliefs is probably false, are we obligated to change it?**
 
-### 👍 Yes
+#### 👍 Yes
 
 Continuing to believe something despite overwhelming contrary evidence may amount to intellectual dishonesty.
 
 A genuine commitment to truth requires willingness to revise beliefs.
 
-### 👎 Qualification
+#### 👎 Qualification
 
 Evidence is itself interpreted.
 
@@ -1046,43 +1046,43 @@ People can reasonably disagree about:
 
 Changing one's beliefs too quickly can therefore be just as intellectually irresponsible as refusing to change them.
 
-### 🎯 Moderator Push
+#### 🎯 Moderator Push
 
 > **What should count as enough evidence to change a deeply held belief?**
 
----
+<br/>
 
-## 💬 What Happens When Truth Conflicts With Identity?
+### 💬 What Happens When Truth Conflicts With Identity?
 
-### Question
+#### Question
 
 > **What should we do when evidence challenges something central to our religion, politics, worldview, relationships, traditions, or identity?**
 
-### 👍 Follow the Evidence
+#### 👍 Follow the Evidence
 
 If truth matters, no belief should be permanently protected from examination.
 
-### 👎 Caution
+#### 👎 Caution
 
 Deeply established beliefs often rest upon much more evidence and experience than can be articulated in one conversation.
 
 A new objection should not automatically overturn an entire worldview.
 
-### 🎯 Moderator Push
+#### 🎯 Moderator Push
 
 > **What's the difference between being open-minded and being easily persuaded?**
 
----
+<br/>
 
-## 💬 Can Society Function Without Shared Truth?
+### 💬 Can Society Function Without Shared Truth?
 
-### 👍 No
+#### 👍 No
 
 Law, science, journalism, contracts, elections, education, and ordinary communication depend upon at least some shared assumptions about facts and evidence.
 
 If factual claims become nothing more than expressions of group loyalty or personal preference, cooperation becomes increasingly difficult.
 
-### 👎 Qualification
+#### 👎 Qualification
 
 Societies have always contained disagreement about truth.
 
@@ -1090,13 +1090,13 @@ A functioning pluralistic society does not require agreement about every religio
 
 What may be necessary is agreement about **methods, evidence, procedures, and norms for resolving disagreements**.
 
-### 🎯 Moderator Push
+#### 🎯 Moderator Push
 
 > **What minimum commitment to truth does a functioning society require?**
 
----
+<br/>
 
-# 🧠 Thought Experiment
+### 🧠 Thought Experiment
 
 Imagine two people are preparing to cross a bridge.
 
@@ -1116,7 +1116,7 @@ Then:
 
 > **If truth clearly matters when we're talking about bridges, medicine, engineering, and money, does it also matter when we're talking about morality, politics, history, religion, and how we should live?**
 
-### Alternative Perspective
+#### Alternative Perspective
 
 Be careful not to assume these domains work identically.
 
@@ -1131,7 +1131,7 @@ The issue may therefore be:
 <br/>
 <br/>
 
-# 🏁 Closing Question
+## 🏁 Closing Question
 
 We've spent tonight asking:
 
@@ -1151,7 +1151,7 @@ Take a moment before answering.
 
 There isn't necessarily a right answer, and no one needs to give a long explanation.
 
-## Closing Question #1
+### Closing Question #1
 
 > If you became convinced that one of your deeply held beliefs was false, would you want to know?
 
@@ -1159,7 +1159,7 @@ Allow everyone who wishes to answer.
 
 Then ask:
 
-## Closing Question #2
+### Closing Question #2
 
 > *What would you be willing to change in order to follow the truth?
   
@@ -1168,7 +1168,7 @@ Then ask:
 <br/>
 <br/>
 
-# 🙏 Final Remarks & Thank You
+## 🙏 Final Remarks & Thank You
 
 Thank you, everyone, for coming and for being willing to participate.
 
@@ -1204,7 +1204,7 @@ And thank you for helping me honor my dad tonight.
 <br/>
 <br/>
 
-# 🔑 Moderator Quick Reference
+## 🔑 Moderator Quick Reference
 
 When discussion stalls, use these questions:
 
