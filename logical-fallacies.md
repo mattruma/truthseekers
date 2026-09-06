@@ -7,6 +7,9 @@ A **logical fallacy** is an error in reasoning that weakens an argument.
 
 [Back to top](#top)
 
+<br/>
+<br/>
+
 ## 📌Avoiding the Question
 
 These fallacies avoid dealing directly with the argument or evidence under consideration.
