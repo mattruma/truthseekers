@@ -1,3 +1,4 @@
+<a id="top"></a>
 # Truth Seekers Club
 
 **Seek truth. Think carefully. Listen well.**
@@ -6,7 +7,10 @@ The **Truth Seekers Club** is a group dedicated to exploring important questions
 
 Our goal is not to win arguments, but to **seek truth, challenge assumptions, examine evidence, and learn from one another.**
 
----
+[Back to top](#top)
+
+<br/>
+<br/>
 
 ## About the Club
 
@@ -25,7 +29,10 @@ Participants are encouraged to:
 - Admit uncertainty when the evidence is unclear.
 - Be willing to revise a belief when the evidence warrants it.
 
----
+[Back to top](#top)
+
+<br/>
+<br/>
 
 ## Guiding Principles
 
@@ -53,7 +60,10 @@ Not every question has a simple or certain answer. Our confidence should reflect
 
 Intellectual honesty requires a willingness to reconsider even deeply held beliefs when there are good reasons to do so.
 
----
+[Back to top](#top)
+
+<br/>
+<br/>
 
 # Meetings
 
@@ -63,18 +73,27 @@ Each Truth Seekers Club meeting focuses on a major question and provides a frame
 
 - [Meeting #1: What Is Truth? Can We Know Truth? Does Truth Matter?](meetings/meeting-01-what-is-truth.md)
 
----
+[Back to top](#top)
+
+<br/>
+<br/>
 
 ## Future Meetings
 
 Additional meetings and discussion topics will be posted here.
 
----
+[Back to top](#top)
+
+<br/>
+<br/>
 
 ## The Question Behind the Club
 
 > **Are we willing to follow the truth wherever it leads?**
 
----
+[Back to top](#top)
+
+<br/>
+<br/>
 
 *Respectful inquiry. Clear reasoning. Intellectual humility.*
