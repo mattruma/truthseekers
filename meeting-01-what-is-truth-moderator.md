@@ -1119,20 +1119,19 @@ Engineering questions may be directly measurable in ways that moral, metaphysica
 The issue may therefore be:
 
 > **Does truth matter in all these areas even if the methods for discovering it differ?**
+  
+[Back to top](#top)
 
----
+<br/>
+<br/>
 
 # 🏁 Closing Question
 
-## Moderator Transition
-
 We've spent tonight asking:
 
-> **What is truth?**
->
-> **Can we know truth?**
->
-> **Does truth matter?**
+- What is truth?
+- Can we know truth?
+- Does truth matter?
 
 But there's one final issue.
 
@@ -1146,23 +1145,24 @@ Take a moment before answering.
 
 There isn't necessarily a right answer, and no one needs to give a long explanation.
 
-### Closing Question #1
+## Closing Question #1
 
-> **If you became convinced that one of your deeply held beliefs was false, would you want to know?**
+> If you became convinced that one of your deeply held beliefs was false, would you want to know?
 
 Allow everyone who wishes to answer.
 
 Then ask:
 
-### Closing Question #2
+## Closing Question #2
 
-> **What would you be willing to change in order to follow the truth?**
+> *What would you be willing to change in order to follow the truth?
+  
+[Back to top](#top)
 
----
+<br/>
+<br/>
 
 # 🙏 Final Remarks & Thank You
-
-## Moderator Remarks
 
 Thank you, everyone, for coming and for being willing to participate.
 
@@ -1195,8 +1195,11 @@ We do need to be willing to follow the evidence, treat one another fairly, and r
 Thank you for helping begin the Truth Seekers Club.
 
 And thank you for helping me honor my dad tonight.
+  
+[Back to top](#top)
 
----
+<br/>
+<br/>
 
 # 🔑 Moderator Quick Reference
 
@@ -1214,19 +1217,8 @@ When discussion stalls, use these questions:
 - **Are we confusing certainty with knowledge?**
 - **Are we criticizing the argument or the person making it?**
 - **What would change your mind?**
+  
+[Back to top](#top)
 
----
-
-# 📚 Moderator References
-
-## Primary and Reference Sources
-
-- **The Gospel of John 18:37–38** — Jesus tells Pilate that he came to testify to the truth; Pilate responds, “What is truth?”
-- **Qur'an 4:135 (Surah An-Nisa)** — Calls believers to stand firmly for justice and truthful witness even against themselves or those close to them.
-- **Aristotle, *Metaphysics*, Book IV** — Classic formulation connecting truth with saying of what is that it is and of what is not that it is not.
-- **Plato, *Theaetetus* and *Meno*** — Important background for the traditional relationship between knowledge, true belief, and justification.
-- **Edmund Gettier, “Is Justified True Belief Knowledge?” (1963)** — Famous challenge to the traditional justified-true-belief account of knowledge.
-- **David Hume, *An Enquiry Concerning Human Understanding*** — Major treatment of empiricism, induction, causation, and the limits of human knowledge.
-- **René Descartes, *Discourse on Method* and *Meditations*** — Influential rationalist approach emphasizing doubt, reason, and certainty.
-- **William James, *Pragmatism*** — Major statement of the pragmatic tradition concerning truth and practical consequences.
-- **James K. Dew Jr. & Mark W. Foreman, *How Do We Know? An Introduction to Epistemology*** — Introductory treatment of knowledge, JTB, Gettier problems, sources of knowledge, truth, correspondence, coherence, and pragmatism.
+<br/>
+<br/>
