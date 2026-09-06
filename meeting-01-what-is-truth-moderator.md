@@ -262,12 +262,12 @@ It's relatively easy to seek truth when we expect the answer to confirm what we 
 
 Those questions lead directly into the three larger questions behind tonight's discussion:
 
-- **What is truth?**
-- **Can we know truth?**
->
-> And, if we have time:
->
-> **Does truth really matter?**
+- What is truth?
+- Can we know truth?
+
+And, if we have time:
+
+- Does truth really matter?
 
 [Back to top](#top)
 
