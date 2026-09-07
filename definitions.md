@@ -47,7 +47,9 @@ If there actually are six apples, the statement is **true**.
 
 ### Important Distinction
 
-**Truth and belief are not the same thing.** A person can sincerely believe something that is false, just as a person can doubt something that is true.
+**Truth and belief are not the same thing.** 
+
+A person can sincerely believe something that is false, just as a person can doubt something that is true.
 
 ## 📖 Fact
 
@@ -66,11 +68,15 @@ In everyday language, *fact* and *truth* are often used interchangeably. For our
 
 > The basket contains six apples.
 
-The **fact** is that the basket contains six apples. The **claim** "There are six apples in the basket" is **true** because it accurately describes that fact.
+The **fact** is that the basket contains six apples. 
+
+The **claim** "There are six apples in the basket" is **true** because it accurately describes that fact.
 
 ### Important Distinction
 
-**A fact is something about reality that is actually the case. Truth describes the relationship between a claim and reality.** In ordinary conversation, however, saying "That's a fact" and "That's true" often communicates essentially the same thing.
+**A fact is something about reality that is actually the case. Truth describes the relationship between a claim and reality.** 
+
+In ordinary conversation, however, saying "That's a fact" and "That's true" often communicates essentially the same thing.
 
 ## 📖 Claim
 
@@ -214,7 +220,9 @@ Possible evidence might include rainfall measurements, wet pavement, weather rec
 
 ### Important Distinction
 
-**Evidence supports a claim; it is not necessarily the same thing as proof.** Evidence can be incomplete, misleading, misunderstood, or outweighed by stronger evidence.
+**Evidence supports a claim; it is not necessarily the same thing as proof.** 
+
+Evidence can be incomplete, misleading, misunderstood, or outweighed by stronger evidence.
 
 ## 📖 Knowledge
 
@@ -237,7 +245,9 @@ Someone believes there are six apples, carefully counts them, and there actually
 
 ### Important Distinction
 
-**Knowledge and certainty are not necessarily the same thing.** We may have good reason to say we know something without claiming that there is absolutely no possibility that we could be mistaken.
+**Knowledge and certainty are not necessarily the same thing.** 
+
+We may have good reason to say we know something without claiming that there is absolutely no possibility that we could be mistaken.
 
 ## Commonly Confused Terms
 
