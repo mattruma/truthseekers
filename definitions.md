@@ -12,7 +12,7 @@ These definitions are intended to help us understand one another, not to settle 
 
 **Reality is everything that actually exists or occurs.**
 
-**Simply put, reality is the way things actually are.**
+Simply put, **reality is the way things actually are**.
 
 Reality does not depend upon what any particular person believes, perceives, or says about it.
 
@@ -32,7 +32,7 @@ If there actually are six apples, that is part of reality regardless of whether 
 
 **Truth is an accurate description of reality.** 
 
-**A claim is true when it corresponds to reality as it actually is, including any relevant conditions such as time, place, and perspective.**
+A claim is true when it corresponds to reality as it actually is, including any relevant conditions such as time, place, and perspective.
 
 Truth should be distinguished from what someone **believes** to be true.
 
