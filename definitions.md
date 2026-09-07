@@ -10,7 +10,9 @@ These definitions are intended to help us understand one another, not to settle 
 
 ## 📖 Reality
 
-**Reality is everything that actually exists or occurs. Simply put, reality is the way things actually are.**
+**Reality is everything that actually exists or occurs.**
+
+**Simply put, reality is the way things actually are.**
 
 Reality does not depend upon what any particular person believes, perceives, or says about it.
 
