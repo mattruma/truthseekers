@@ -28,7 +28,9 @@ If there actually are six apples, that is part of reality regardless of whether 
 
 ## 📖 Truth
 
-**Truth is an accurate description of reality. A claim is true when it corresponds to reality as it actually is, including any relevant conditions such as time, place, and perspective.**
+**Truth is an accurate description of reality.** 
+
+**A claim is true when it corresponds to reality as it actually is, including any relevant conditions such as time, place, and perspective.**
 
 Truth should be distinguished from what someone **believes** to be true.
 
