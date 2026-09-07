@@ -69,3 +69,23 @@ We should not automatically conclude that each person has "their own truth."
 Their perceptions conflict. At least one may be mistaken.
 
 **Perspective may explain why we believe something. It does not make the belief true.**
+
+## Reality and Change
+
+Reality can also change over time.
+
+Suppose:
+> "The temperature was 40°F yesterday."
+
+and:
+> "The temperature is 70°F today."
+
+Both statements can be true.
+
+The temperature changed. That does not mean truth changed.
+
+If it really was 40°F yesterday, it remains true that it was 40°F yesterday.
+
+**Reality may change over time without changing the truth about what reality was at a particular time.**
+
+Time, place, and perspective can therefore be important parts of the reality being described.
