@@ -18,7 +18,9 @@ Imagine there are six apples in a basket.
 A person's belief does not determine reality. Someone can sincerely believe there are five apples and still be wrong.
 
 Reality does not depend upon whether we recognize it, understand it, agree with it, or even know about it.
+
 ## Does Reality Depend on Consensus?
+
 Suppose everyone in a room believes a box is empty.
 
 Someone opens the box and discovers a basketball inside.
@@ -34,3 +36,36 @@ This illustrates an important principle:
 Ten people can be wrong while one person is right. Likewise, everyone can be wrong about something.
 
 What matters is not **how many people believe something**, but whether their belief accurately represents reality.
+
+## Reality and Perspective
+Our perspective affects how we experience reality, but it does not necessarily change reality itself.
+
+Imagine two people sitting across from each other with a cup between them.
+
+One person says:
+> "The handle is on my right."
+
+The other says:
+> "The handle is on my left."
+
+Both statements can be true.
+
+They do not have separate realities. **They are describing the same reality from different reference points**.
+
+
+Perspective is therefore part of the context needed to understand certain claims.
+Different perspectives can reveal different aspects of the same reality.
+
+However, perspective can also be mistaken.
+
+If two witnesses looking at the same traffic light at the same moment say:
+> "The light was red."
+
+and
+> "The light was green."
+
+We should not automatically conclude that each person has "their own truth."
+
+Their perceptions conflict. At least one may be mistaken.
+
+**Perspective may explain why we believe something. It does not make the belief true.**
