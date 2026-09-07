@@ -9,9 +9,6 @@ Our goal is not to win arguments, but to **seek truth, challenge assumptions, ex
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## About the Club
 
 Important questions deserve thoughtful conversation.
@@ -30,9 +27,6 @@ Participants are encouraged to:
 - Be willing to revise a belief when the evidence warrants it.
 
 [Back to top](#top)
-
-<br/>
-<br/>
 
 ## Guiding Principles
 
@@ -62,9 +56,6 @@ Intellectual honesty requires a willingness to reconsider even deeply held belie
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 # Meetings
 
 Each Truth Seekers Club meeting focuses on a major question and provides a framework for thoughtful discussion, competing perspectives, evidence, and further exploration.
@@ -75,25 +66,16 @@ Each Truth Seekers Club meeting focuses on a major question and provides a frame
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## Future Meetings
 
 Additional meetings and discussion topics will be posted here.
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## The Question Behind the Club
 
 > **Are we willing to follow the truth wherever it leads?**
 
 [Back to top](#top)
-
-<br/>
-<br/>
 
 *Respectful inquiry. Clear reasoning. Intellectual humility.*
