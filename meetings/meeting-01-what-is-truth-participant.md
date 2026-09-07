@@ -13,9 +13,6 @@ Our goal is not to win an argument or reach a predetermined conclusion. Our goal
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## 🔭Overview
 
 Our first Truth Seekers Club meeting begins with perhaps the most fundamental question behind the entire project:
@@ -33,9 +30,6 @@ Instead, we will examine competing answers, the reasoning behind them, and the e
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## 📋Agenda
 
 - **5:30–6:00 PM** — Arrival, Food & Conversation
@@ -50,9 +44,6 @@ Instead, we will examine competing answers, the reasoning behind them, and the e
 - **8:25–8:30 PM** — Final Remarks & Thank You
   
 [Back to top](#top)
-
-<br/>
-<br/>
 
 ## 💭Discussion I: What Is Truth?
 
@@ -203,9 +194,6 @@ A false belief might sometimes produce useful results, while a true belief might
 - Which best describes truth: what corresponds to reality, what coheres with our other beliefs, or what works in practice? Why?
 
 [Back to top](#top)
-
-<br/>
-<br/>
 
 ## 💭Discussion II: Can We Know Truth?
 
@@ -360,9 +348,6 @@ Can any of these methods give us certainty, or do they only increase our confide
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## 💭Discussion III: Does Truth Really Matter?
 
 *If time permits.*
@@ -391,9 +376,6 @@ This leads to a more personal question:
 **Do we really want truth when discovering it might require us to change?**
 
 [Back to top](#top)
-
-<br/>
-<br/>
 
 ## 🔑 Key Terms
 
@@ -425,5 +407,3 @@ Before we begin, it may be helpful to define a few key terms that will come up t
 | **Intellectual Humility** | A willingness to recognize the limits of one's knowledge and seriously consider the possibility that one's beliefs could be mistaken. |
 
 [Back to top](#top)
-
-[Back to Truth Seekers Club](../README.md)
