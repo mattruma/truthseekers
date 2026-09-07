@@ -15,9 +15,6 @@ Our goal is not to win an argument or force consensus. Our goal is simpler and c
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## 📋 Agenda
 
 - **5:30–6:00 PM** — Arrival, Food & Conversation
@@ -32,9 +29,6 @@ Our goal is not to win an argument or force consensus. Our goal is simpler and c
 - **8:25–8:30 PM** — Final Remarks & Thank You
   
 [Back to top](#top)
-
-<br/>
-<br/>
 
 ## 👋 Welcome & Purpose
 
@@ -114,9 +108,6 @@ But hopefully we leave **thinking more carefully, understanding one another bett
   
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## 🗣️ Introductions
 
 Since this is our first meeting, let's take a few minutes to go around the room and get to know each other a little bit.
@@ -167,9 +158,6 @@ At the end of the evening, participants may discover that their definition has c
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## 🤝 Rules of Engagement
 
 Before we get into the discussion, I want to establish a few rules.
@@ -199,9 +187,6 @@ My job is not to determine which views may be challenged, but to make sure ideas
 > **The goal is not victory. The goal is truth.**
 
 [Back to top](#top)
-
-<br/>
-<br/>
 
 ## 🔭 Introduce Tonight's Topic
 
@@ -271,9 +256,6 @@ And, if we have time:
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## 💭 Discussion I: What Is Truth?
 
 ### Opening Question
@@ -281,8 +263,6 @@ And, if we have time:
 > **What does it mean to say that something is true?**
 
 Give the group time to answer before introducing theories.
-
-<br/>
 
 ### 🔑 Truth vs. Belief
 
@@ -345,8 +325,6 @@ Ask:
 
 > **Are we confusing objective truth with the claim that every question has one simple objective answer?**
 
-<br/>
-
 ### 💬 Can Something Be “True for Me” but False for You?
 
 #### 👍 Affirmation Perspective
@@ -377,8 +355,6 @@ Ask:
 
 > **What's the difference between subjective experience and subjective truth?**
 
-<br/>
-
 ### 📌 Three Major Approaches to Truth
 
 #### 👉 Correspondence Theory
@@ -406,8 +382,6 @@ Truth must be anchored in something outside our beliefs. Otherwise we cannot exp
 ###### 👎 Objection
 
 We only know “reality” through perception, concepts, language, and interpretation. How can we compare our beliefs to reality independently of the very cognitive tools whose accuracy we're trying to evaluate?
-
-<br/>
 
 #### 👉 Coherence Theory
 
@@ -442,8 +416,6 @@ A consistent belief system can therefore still fail to describe reality.
 ##### 🎯 Moderator Push
 
 > **Can two different explanations both fit the available evidence? If so, how do we decide between them?**
-
-<br/>
 
 #### 👉 Pragmatism
 
@@ -483,8 +455,6 @@ Therefore:
 
 > **Could believing something false ever make your life better? If so, would its usefulness make it true?**
 
-<br/>
-
 ### 💬 Additional Questions: What Is Truth?
 
 #### Question
@@ -506,8 +476,6 @@ Entire societies have held beliefs later shown to be mistaken.
 ##### 🎯 Moderator Push
 
 > **When should consensus count as evidence, and when should we distrust it?**
-
-<br/>
 
 #### Question
 
@@ -541,9 +509,6 @@ What changed was reality at different times, or our knowledge of it, not the tru
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## 💭 Discussion II: Can We Know Truth?
 
 ### Transition
@@ -555,8 +520,6 @@ We have been asking:
 Now comes the harder epistemological question:
 
 > **How would we know when we have it?**
-
-<br/>
 
 ### 🔑 What Is Knowledge?
 
@@ -570,8 +533,6 @@ For someone to know proposition **P**:
 2. **P must actually be true**.
 3. They must have adequate **justification for believing P**.
 
-<br/>
-
 #### 💡 JTB Example
 
 You look outside and conclude:
@@ -583,8 +544,6 @@ You look outside and conclude:
 - **Justification:** You can see and hear the rain.
 
 You therefore appear to have a **justified true belief**.
-
-<br/>
 
 ### 🧩 The Gettier Problem
 
@@ -628,8 +587,6 @@ If someone can satisfy all three conditions and still intuitively lack knowledge
 
 > **What would we need to add to JTB to eliminate accidental truth?**
 
-<br/>
-
 ### 📌 Possible Sources of Knowledge
 
 #### 👉 Reason
@@ -652,8 +609,6 @@ Valid reasoning guarantees a conclusion only if the premises are true.
 
 Reason alone may not tell us whether premises about the external world are correct.
 
-<br/>
-
 #### 👉 Experience
 
 Can observation and sensory experience provide knowledge about reality?
@@ -671,8 +626,6 @@ Observation gives us direct practical access to the physical world and forms the
 Our senses can mislead us.
 
 Illusions, hallucinations, perspective, memory errors, and perceptual limitations raise questions about how reliable experience is.
-
-<br/>
 
 #### 👉 Testimony
 
@@ -713,8 +666,6 @@ Consider:
 - track record,
 - contrary evidence.
 
-<br/>
-
 #### 👉 Revelation
 
 Religious traditions sometimes claim that knowledge can come through divine revelation.
@@ -740,8 +691,6 @@ Therefore, we need some way to distinguish genuine revelation from mistake, imag
 > **How could a claimed revelation be tested?**
 
 > **Should revelation require independent evidence, or could revelation itself provide its own justification?**
-
-<br/>
 
 #### 👉 Faith
 
@@ -775,8 +724,6 @@ Your trust rests partly upon:
 
 > **Does your trust create knowledge, or is your trust a response to evidence you already possess?**
 
-<br/>
-
 ### 🔎 Approaches to Pursuing Truth
 
 - **👉 Socratic Questioning:** Ask probing questions to clarify claims, uncover assumptions, and expose inconsistencies.
@@ -808,8 +755,6 @@ Consider asking:
 
 > **Important distinction:** These tests don't make a proposition true. They give us reasons for believing that it is true.
 
-<br/>
-
 ### 💬 Additional Questions: Can We Know Truth?
 
 #### Question
@@ -838,8 +783,6 @@ rather than:
 
 > **What level of confidence is required before belief becomes knowledge?**
 
-<br/>
-
 #### Question
 
 > **Can we trust our senses?**
@@ -860,8 +803,6 @@ Dreams, illusions, hallucinations, and perceptual differences demonstrate that e
 
 > **Do we need perfect reliability for a source of knowledge to be useful?**
 
-<br/>
-
 #### Question
 
 > **Can bias prevent us from knowing truth?**
@@ -879,8 +820,6 @@ A person can have bad motives and still be correct, just as a neutral person can
 ##### 🎯 Moderator Push
 
 > **How do we distinguish criticism of someone's reasoning from criticism of their motives?**
-
-<br/>
 
 #### Question
 
@@ -904,9 +843,6 @@ Memory, perception, testimony, basic logical principles, and other foundational 
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## 💭 Discussion III: Does Truth Really Matter?
 
 ### Transition
@@ -921,8 +857,6 @@ That leaves another question:
 > **So what?**
 
 Does it actually matter whether what we believe is true?
-
-<br/>
 
 ### 💬 Why Should We Care Whether Our Beliefs Are True?
 
@@ -943,8 +877,6 @@ Knowing the exact number of grains of sand on a beach may be true but irrelevant
 #### 🎯 Moderator Push
 
 > **What makes one truth more important than another?**
-
-<br/>
 
 ### 💬 Can Believing Something False Ever Be Beneficial?
 
@@ -967,8 +899,6 @@ A comforting falsehood remains false.
 #### 🎯 Moderator Push
 
 > **If a false belief made someone happier and harmed no one, would there be any reason to challenge it?**
-
-<br/>
 
 ### 💬 Is It Better to Know an Uncomfortable Truth or Believe a Comforting Lie?
 
@@ -996,8 +926,6 @@ from:
 
 **Every truth must always be spoken to everyone.**
 
-<br/>
-
 ### 💬 Do We Have a Responsibility to Seek Truth?
 
 #### 👍 Yes
@@ -1017,8 +945,6 @@ There may therefore be a responsibility to seek truth about **important matters*
 #### 🎯 Moderator Push
 
 > **When does ignorance become irresponsible?**
-
-<br/>
 
 ### 💬 Do We Have an Obligation to Change Our Beliefs?
 
@@ -1050,8 +976,6 @@ Changing one's beliefs too quickly can therefore be just as intellectually irres
 
 > **What should count as enough evidence to change a deeply held belief?**
 
-<br/>
-
 ### 💬 What Happens When Truth Conflicts With Identity?
 
 #### Question
@@ -1072,8 +996,6 @@ A new objection should not automatically overturn an entire worldview.
 
 > **What's the difference between being open-minded and being easily persuaded?**
 
-<br/>
-
 ### 💬 Can Society Function Without Shared Truth?
 
 #### 👍 No
@@ -1093,8 +1015,6 @@ What may be necessary is agreement about **methods, evidence, procedures, and no
 #### 🎯 Moderator Push
 
 > **What minimum commitment to truth does a functioning society require?**
-
-<br/>
 
 ### 🧠 Thought Experiment
 
@@ -1127,9 +1047,6 @@ The issue may therefore be:
 > **Does truth matter in all these areas even if the methods for discovering it differ?**
   
 [Back to top](#top)
-
-<br/>
-<br/>
 
 ## 🏁 Closing Question
 
@@ -1165,9 +1082,6 @@ Then ask:
   
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## 🙏 Final Remarks & Thank You
 
 Thank you, everyone, for coming and for being willing to participate.
@@ -1201,9 +1115,6 @@ And thank you for helping me honor my dad tonight.
   
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## 🔑 Moderator Quick Reference
 
 When discussion stalls, use these questions:
@@ -1222,6 +1133,3 @@ When discussion stalls, use these questions:
 - **What would change your mind?**
   
 [Back to top](#top)
-
-<br/>
-<br/>
