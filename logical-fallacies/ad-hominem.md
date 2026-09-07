@@ -1,16 +1,14 @@
-[⬅ Back to Logical Fallacies index](README.md)
-
 # Ad Hominem
 
-## Description
+### Description
 
 Attacks the person making an argument rather than addressing the argument itself.
 
-## Example
+### Example
 
 > We shouldn't take Sarah's argument about tax policy seriously. She barely graduated college.
 
-## Explanation
+### Explanation
 
 Sarah's educational background does not determine whether her argument about tax policy is correct.
 
