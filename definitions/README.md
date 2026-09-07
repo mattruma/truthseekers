@@ -28,6 +28,10 @@ Reality does not depend upon what any particular person believes, perceives, or 
 
 If there actually are six apples, that is part of reality regardless of whether anyone has counted them correctly.
 
+### Related Links
+
+- [Reality](reality.md)
+
 ## 📖 Truth
 
 **Truth is an accurate description of reality.** 
@@ -54,6 +58,10 @@ If there actually are six apples, the statement is **true**.
 **Truth and belief are not the same thing.** 
 
 A person can sincerely believe something that is false, just as a person can doubt something that is true.
+
+### Related Links
+
+- [Truth](truth.md)
 
 ## 📖 Fact
 
