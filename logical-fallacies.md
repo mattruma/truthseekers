@@ -11,9 +11,6 @@ As you review these fallacies, focus not only on identifying their names, but on
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## 📌Avoiding the Question
 
 These fallacies avoid dealing directly with the argument or evidence under consideration.
@@ -105,9 +102,6 @@ Calling the proposal ridiculous does not demonstrate that space exploration is u
 The proposal must be evaluated by considering its reasons, costs, benefits, and alternatives.
 
 [Back to top](#top)
-
-<br/>
-<br/>
 
 ## 📌Making Assumptions
 
@@ -261,9 +255,6 @@ A characteristic of the whole does not necessarily belong to every individual pa
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## 📌Statistical Fallacies
 
 These fallacies misuse samples, probabilities, correlations, or other forms of numerical evidence.
@@ -365,9 +356,6 @@ The probability also depends on factors such as how common the disease is and th
 A highly accurate test can still produce a significant proportion of false positives when testing for a very rare condition.
 
 [Back to top](#top)
-
-<br/>
-<br/>
 
 ## 📌Propaganda
 
@@ -505,9 +493,6 @@ One position may be substantially better supported by the evidence than the othe
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## 📌Formal vs. Informal Fallacies
 
 It can be helpful to distinguish between **formal** and **informal** fallacies.
@@ -538,9 +523,6 @@ Whether the person is intelligent has no bearing on whether the economic argumen
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## 📌A Fallacy Does Not Necessarily Make the Conclusion False
 
 This distinction is extremely important.
@@ -564,9 +546,6 @@ A person may reach the correct conclusion for the wrong reasons.
 
 [Back to top](#top)
 
-<br/>
-<br/>
-
 ## 📌Questions for Evaluating an Argument
 
 Rather than simply trying to memorize dozens of fallacy names, ask:
@@ -579,9 +558,6 @@ Rather than simply trying to memorize dozens of fallacy names, ask:
 These questions help expose many common errors in reasoning even when you cannot remember the formal name of the fallacy.
 
 [Back to top](#top)
-
-<br/>
-<br/>
 
 ## 📌A Caution About Calling Something a Fallacy
 
