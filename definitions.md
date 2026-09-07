@@ -1,8 +1,12 @@
 # Definitions
 
-Clear discussion requires clear language. Many words used when discussing truth are closely related and are sometimes used as synonyms in everyday conversation. However, they often have important differences.
+Clear discussion requires clear language. 
 
-This page provides working definitions for terms we may use in Truth Seekers Club discussions. These definitions are intended to help us understand one another, not to settle every philosophical debate about the terms.
+Many words used when discussing truth are closely related and are sometimes used as synonyms in everyday conversation. However, they often have important differences.
+
+This page provides working definitions for terms we may use in Truth Seekers Club discussions. 
+
+These definitions are intended to help us understand one another, not to settle every philosophical debate about the terms.
 
 ## 📖 Reality
 
